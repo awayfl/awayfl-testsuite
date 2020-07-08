@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8">
+</head>
+
+
+</head>
+
+<body scrolling="no">
+
+	<style>
+		html {
+			height: 100%;
+		}
+		#app{
+			overflow: hidden;
+
+		}
+		body {
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-size: 13px;
+			line-height: 1.5;
+			color: #666;
+			margin: 0px;
+			padding: 0px;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+			overflow: hidden;
+		}
+
+		.rollover1 {
+			background-color: #eee;
+		}
+
+		.rollover1:hover {
+			background-color: #eee;
+		}
+
+		.rollover2 {
+			background-color: #eee;
+		}
+
+		.rollover2:nth-child(even) {
+			background-color: #eee;
+		}
+
+		.rollover2:hover {
+			background-color: #eee;
+		}
+
+		.rollover2:hover:nth-child(even) {
+			background-color: #ddd;
+		}
+
+		.rollover3 {
+			cursor: default;
+			background-color: #ddd;
+		}
+
+		.rollover3:nth-child(even) {
+			background-color: #ddd;
+		}
+
+		.rollover3:hover {
+			font-weight: bold;
+			background-color: #fff;
+		}
+	</style>
+	<div id="app" class="main">
+	</div>
+
+
+	<!-- this stuff is needed as invisible elements for some things to work -->
+	<!--input id="myInput" type="file" style="visibility:hidden" -->
+
+	<!--llink rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"-->
+	<!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/fonts/fontawesome-webfont.ttf"-->
+	<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css"-->
+	<script type="text/javascript" language="javascript" src="js/TestSuite.js" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,21 @@
+{
+	"port":"1111",
+	"port_ws":"1112",
+	"jestPath":"8081/",
+	"awayjsPath":"1111/bin/",
+	"awayjsWatchPath":"8081/",
+	"pathToTestSuite":"",
+    "pathToFPLogs":"C:/Users/80pro/AppData/Roaming/Macromedia/Flash Player/Logs/flashlog.txt",
+    "pathToFPDebugger":"test_helpers/flashplayer_32_sa_debug.exe",
+	"pathToFlashRecorderSWF": "src/flashrecorder/flashrecorder.swf",
+	"testsDirectoryRoot":"tests/",
+	"srcDirectoryRoot":"src/tests/",
+	"awayflEntryHtml":"index",
+	"useGameConfigForSrc":false,
+	"defaultSettings":{
+		"onlyTraces":false,
+		"snapShotFrames":0,
+		"stopRecAfterFrame":10
+	}
+
+}
