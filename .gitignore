@@ -1,7 +1,7 @@
 # Build and Release Folders
 node_modules/
 libs/
-*/bin/
+bin/
 .awcache/
 Main.swf
 *.rar
