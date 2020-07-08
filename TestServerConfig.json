@@ -1,7 +1,7 @@
 {
 	"port":"1111",
 	"port_ws":"1112",
-	"jestPath":"8081/",
+	"jestPath":"1111/bin/",
 	"awayjsPath":"1111/bin/",
 	"awayjsWatchPath":"8081/",
 	"pathToTestSuite":"",
