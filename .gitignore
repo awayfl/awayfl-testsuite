@@ -2,6 +2,7 @@
 node_modules/
 libs/
 bin/
+test_helpers/flashplayer_32_sa_debug.exe
 .awcache/
 Main.swf
 *.rar
