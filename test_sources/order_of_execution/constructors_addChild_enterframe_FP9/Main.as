@@ -9,7 +9,7 @@
 		
 		public function Main() {
 			// constructor code
-			trace("constructor Main parent", this.parent);
+			trace("constructor Main parent", this.parent, stage);
 			this.addEventListener(Event.ADDED, onAdded);
 			this.addEventListener(Event.ADDED_TO_STAGE, onAdded);
 			//this.addEventListener(Event.REMOVED, onAdded);
@@ -24,11 +24,11 @@
 								  
 		}
 		private function onAdded(evt){
-			trace(evt.type, this, this.name, evt.target, this.currentFrame, this.numChildren);
+			trace(evt.type, this, evt.target, this.currentFrame, this.numChildren);
 		}
 		private var enterCnt:Number=0;
 		private function onEnter(evt){
-			trace(evt.type, this, this.name, this.currentFrame, this.numChildren);
+			trace(evt.type, this, this.currentFrame, this.numChildren);
 			for(var i:Number=0; i<this.numChildren; i++){
 				trace("child", i, this.getChildAt(i));
 			}
@@ -39,7 +39,7 @@
 		}
 		private var exitCnt:Number=0;
 		private function onExit(evt){
-			trace(evt.type, this, this.name, this.currentFrame);
+			trace(evt.type, this, this.currentFrame);
 			exitCnt++;
 			if(exitCnt>=3){
 				//this.removeEventListener(Event.EXIT_FRAME, onExit);				
@@ -47,7 +47,7 @@
 		}
 		private var conrtuctedCnt:Number=0;
 		private function onConstructed(evt){
-			trace(evt.type, this, this.name);
+			trace(evt.type, this);
 			conrtuctedCnt++;
 			if(conrtuctedCnt>=3){
 				//this.removeEventListener(Event.FRAME_CONSTRUCTED, onConstructed);				

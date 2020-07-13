@@ -28,6 +28,7 @@ const mapDispatchToProps = (dispatch) => ({
 
 interface ISWFTestProps {
 	swfTest?: any;
+	pathToTest:string;
 	disabledNodes?: StringTMap<boolean>;
 	name: string;
 	path: string;
@@ -154,6 +155,7 @@ class TestInspectorIntern extends React.Component<ISWFTestProps, {}> {
 
 				output.push(<SWFFrame key={idCnt++}
 					errorColor={obj.testData?"#f00":"#eee"}
+					pathToTest={this.props.pathToTest}
 					frameRecordet={obj.recordetData.frames[i]}
 					frameTest={obj.testData?.frames[i]}
 				></SWFFrame>);

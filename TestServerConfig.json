@@ -13,7 +13,7 @@
 	"awayflEntryHtml":"index",
 	"useGameConfigForSrc":false,
 	"defaultSettings":{
-		"onlyTraces":false,
+		"onlyTraces":true,
 		"snapShotFrames":0,
 		"stopRecAfterFrame":10
 	}

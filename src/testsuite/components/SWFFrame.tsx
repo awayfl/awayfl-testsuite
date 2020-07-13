@@ -24,6 +24,7 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 interface ISWFTestProps {
+	pathToTest: string,
 	frameRecordet: any,
 	frameTest: any,
 	errorColor:string,
@@ -62,10 +63,36 @@ class SWFFrameIntern extends React.Component<ISWFTestProps, {}> {
 				this.props.frameRecordet.messages[i] != this.props.frameTest.messages[i]) {
 				color = "#f00";
 			}
-			output.push(<div key={cnt++}
-				style={{ backgroundColor: color }}>
-				{this.props.frameTest.messages[i]}
-			</div>);
+			
+			if(this.props.frameTest.messages[i].indexOf("AWAYFLTEST SNAPSHOT ")==0){
+				let snapShotIdx=this.props.frameTest.messages[i].replace("AWAYFLTEST SNAPSHOT ", "");
+				if(snapShotIdx.indexOf("#FAILED")!=-1){
+					color="#f00";
+					snapShotIdx=snapShotIdx.replace("#FAILED", "");
+					output.push(<div key={cnt++}
+						style={{ backgroundColor: color }}>
+							<img style={{width:"100px"}} 
+							key={cnt++} 
+							src={this.props.pathToTest+"testSnapshot_"+snapShotIdx+".png"} />
+							<img style={{width:"100px"}} 
+							key={cnt++} 
+							src={this.props.pathToTest+"screenshotDiff_"+snapShotIdx+".png"} /> </div>);
+				}
+				else{
+					output.push(<div key={cnt++}
+						style={{ backgroundColor: color }}>
+							<img style={{width:"100px"}} 
+							key={cnt++} 
+							src={this.props.pathToTest+"testSnapshot_"+snapShotIdx+".png"} /> </div>);
+
+				}
+			}
+			else{
+				output.push(<div key={cnt++}
+					style={{ backgroundColor: color }}>
+					{this.props.frameTest.messages[i]}
+				</div>);
+			}
 		}
 		return output;
 	}
@@ -73,10 +100,20 @@ class SWFFrameIntern extends React.Component<ISWFTestProps, {}> {
 		let output = [];
 		let cnt = 0;
 		for (let i = 0; i < this.props.frameRecordet.messages.length; i++) {
-			output.push(<div key={cnt++}
-				style={{ backgroundColor: "#ccc" }}>
-				{this.props.frameRecordet.messages[i]}
-			</div>);
+			if(this.props.frameRecordet.messages[i].indexOf("AWAYFLTEST SNAPSHOT ")==0){
+				let snapShotIdx=this.props.frameRecordet.messages[i].replace("AWAYFLTEST SNAPSHOT ", "");
+				output.push(<div key={cnt++}
+					style={{ backgroundColor: "#ccc" }}>
+						<img style={{width:"100px"}} 
+						key={cnt++} 
+						src={this.props.pathToTest+"recordetSnapshot_"+snapShotIdx+".png"} /> </div>);
+			}
+			else{
+				output.push(<div key={cnt++}
+					style={{ backgroundColor: "#ccc" }}>
+					{this.props.frameRecordet.messages[i]}
+				</div>);
+			}
 		}
 		return output;
 	}

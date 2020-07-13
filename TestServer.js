@@ -343,6 +343,7 @@ function evaluateTest(testData, recordetData, dir) {
 				// todo: not tested yet
 				let snapshotResult=compareSnapshot(dir, frame_rec.messages[m].replace("AWAYFLTEST SNAPSHOT ", ""));
 				if (snapshotResult!="") {
+					frame_test.messages[m]=frame_test.messages[m]+"#FAILED";
 					testData.result = "failed";
 					testData.message = " frame " + i + " "+snapshotResult;
 					return;

@@ -39,6 +39,7 @@ interface IRootProps {
 	openTest?: string;
 	defaultSettings: any;
 	openConfig?: Function;
+	config:any;
 }
 class RootIntern extends React.Component<IRootProps, {}> {
 
@@ -123,6 +124,15 @@ class RootIntern extends React.Component<IRootProps, {}> {
 		}
 		return obj;
 	}
+	public findPathToTest(path) {
+		let pathToTest = "http://localhost:"+this.props.config.port+"/"+this.props.config.testsDirectoryRoot;
+		for (let i = 0; i < path.length; i++) {
+			if(path[i]!="tree" && path[i]!="dirs" && path[i]!="swfs" && path[i]!="tests"){
+				pathToTest+=path[i]+"/";
+			}
+		}
+		return pathToTest;
+	}
 	public renderTestInspector(): any {
 		if (this.props.openTest) {
 
@@ -132,6 +142,7 @@ class RootIntern extends React.Component<IRootProps, {}> {
 				name={this.props.openTest}
 				obj={this.findObjAtPath(this.props.openTest)}
 				path={this.props.openTest}
+				pathToTest={this.findPathToTest(this.props.openTest)}
 				defaultSettings={this.props.defaultSettings}
 				indent={null}>
 			</TestInspector>

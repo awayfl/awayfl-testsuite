@@ -1,7 +1,7 @@
 module.exports = {
     
     launch: {
-        headless: true,//process.env.HEADLESS !== 'false',
+        headless: false,//process.env.HEADLESS !== 'false',
         //devtools: process.env.DEVTOOLS ? true : false,
         defaultViewport: null,// {width: 960, height: 540},
         args: [

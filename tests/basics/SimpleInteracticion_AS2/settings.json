@@ -1,0 +1,8 @@
+{
+	"onlyTraces":false,
+	"snapShotFrames": 0,
+	"stopRecAfterFrame":100,
+	"recordInput":true,
+	"recordMouseMove":true,
+	"snapShotOnMouseDown":true
+}
