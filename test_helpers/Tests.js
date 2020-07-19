@@ -34,6 +34,7 @@ async function onLogMessage(message, page, done, testData) {
 
 	// todo: use other message.type like warn and err 
 
+	//console.log(message.text());
 	if (message.type().toUpperCase() == "LOG") {
 		//console.log(message.text());
 		// if browser outputs "AWAYFLTEST END", the test is done
