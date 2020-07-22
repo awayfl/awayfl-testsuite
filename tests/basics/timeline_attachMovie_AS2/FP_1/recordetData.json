@@ -1,0 +1,30 @@
+{
+	"player": "flashplayer",
+	"duration": 4995,
+	"date": "21/07/2020, 18:01:40",
+	"url": "index",
+	"swf": "basics/timeline_attachMovie_AS2",
+	"settings": {
+		"onlyTraces": true,
+		"snapShotFrames": 0,
+		"stopRecAfterFrame": 0
+	},
+	"frames": [
+		{
+			"messages": [
+				"original gameDepth -16383",
+				"new gameDepth -16383",
+				"original gameDepth -16383",
+				"new gameDepth -16383",
+				"original gameDepth -16383",
+				"new gameDepth -16383",
+				"original gameDepth -16383",
+				"new gameDepth -16383"
+			],
+			"frameIdx": 0
+		}
+	],
+	"events": {},
+	"swfInfos": null,
+	"test": "FP_1"
+}
