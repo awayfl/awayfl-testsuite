@@ -1,0 +1,239 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <folders>
+          <DOMFolderItem name="Template assets" itemID="595a7975-000003d5" isExpanded="true"/>
+          <DOMFolderItem name="Template assets/Buttons" itemID="57991514-0000064a"/>
+          <DOMFolderItem name="Template assets/Embedded fonts" itemID="595a78ca-000003d0"/>
+          <DOMFolderItem name="Template assets/images" itemID="4ce406d2-0000031a"/>
+          <DOMFolderItem name="Template assets/movieclips" itemID="57991514-00000648"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow Bold" itemID="595a771a-000003c8" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowBoldEmbedded" font="ArialNarrow-Bold" size="0" id="23" sourceLastImported="1499100954" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold Italic" itemID="595a7611-000003bf" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldItalicEmbedded" font="Verdana-BoldItalic" size="0" id="22" sourceLastImported="1499100689" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold" itemID="595a75e7-000003bd" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldEmbedded" font="Verdana-Bold" size="0" id="21" sourceLastImported="1499100647" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Italic" itemID="595a75ae-000003bb" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaItalicEmbedded" font="Verdana-Italic" size="0" id="20" sourceLastImported="1499100590" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Regular" itemID="595a7584-000003b9" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaRegularEmbedded" font="Verdana" size="0" id="19" sourceLastImported="1499100548" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Regular" itemID="5446b366-00000305" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialRegularEmbedded" font="ArialMT" size="0" id="2" sourceLastImported="1492187117" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Italic" itemID="5446b380-0000030a" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialItalicEmbedded" font="Arial-ItalicMT" size="0" id="3" sourceLastImported="1469633232" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold" itemID="5798d291-000002f6" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldEmbedded" font="Arial-BoldMT" size="0" id="4" sourceLastImported="1469633169" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold Italic" itemID="5446b3b2-00000312" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldItalicEmbedded" font="Arial-BoldItalicMT" size="0" id="5" sourceLastImported="1499100876" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow" itemID="58f0de65-0000063e" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowEmbedded" font="ArialNarrow" size="0" id="10" sourceLastImported="1492180581" embedRanges="4|5|17"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="Template assets/images/SatProf logo 150 pixels.gif" itemID="4ce402a4-000002e4" sourceExternalFilepath="./LIBRARY/Template assets/images/SatProf logo 150 pixels.gif" sourceLastImported="1233161343" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Template assets/images/SatProf logo 150 pixels.gif" bitmapDataHRef="M 1 1469650196.dat" frameRight="2980" frameBottom="1240"/>
+          <DOMBitmapItem name="SatProfLogo2018_forLightBG_verysmall.png" itemID="5d6bd222-000003e8" sourceExternalFilepath="./LIBRARY/SatProfLogo2018_forLightBG_verysmall.png" sourceLastImported="1548181566" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="SatProfLogo2018_forLightBG_verysmall.png" bitmapDataHRef="M 3 1567347234.dat" frameRight="5440" frameBottom="2640"/>
+     </media>
+     <symbols>
+          <Include href="Circ.xml" loadImmediate="false" itemID="5e457bf3-00000171" lastModified="1583538333"/>
+          <Include href="Pentagon.xml" loadImmediate="false" itemID="5e62dc43-00000405" lastModified="1583537311"/>
+          <Include href="Rect.xml" loadImmediate="false" itemID="5e457be8-0000016c" lastModified="1583538417"/>
+          <Include href="Template assets/Buttons/Gel Circ Arrow MC.xml" loadImmediate="false" itemID="4cd87978-000000d7" lastModified="1303393969"/>
+          <Include href="Template assets/Buttons/Gel Dot Red no legend.xml" itemIcon="0" loadImmediate="false" itemID="4a6f6d78-000002bf" lastModified="1248816582"/>
+          <Include href="Template assets/Buttons/Gel Left Arrow MC.xml" loadImmediate="false" itemID="4cd87816-000000d5" lastModified="1303393945"/>
+          <Include href="Template assets/Buttons/Gel Right Arrow MC.xml" loadImmediate="false" itemID="4cd8780b-000000d4" lastModified="1303394013"/>
+          <Include href="Template assets/Buttons/Lang button.xml" loadImmediate="false" itemID="4cd89414-00000166" lastModified="1302024255"/>
+          <Include href="Template assets/movieclips/Demo mode warning.xml" loadImmediate="false" itemID="51e06b3a-000003a1" lastModified="1373662010"/>
+          <Include href="Template assets/movieclips/Font samples for embedding.xml" loadImmediate="false" itemID="54468ad8-000002e9" lastModified="1499101124"/>
+          <Include href="Template assets/movieclips/Unauthorized cover.xml" loadImmediate="false" itemID="4b5a3532-0000005d" lastModified="1567347293"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[this.addEventListener(Event.ENTER_FRAME, doEveryFrame);
+this.circ.addEventListener(MouseEvent.CLICK, myClickReaction);
+trace("In frame 1.")
+
+function doEveryFrame(e:Event):void{
+	//trace("In doEveryFrame()");
+     pentagon.rotation += 2;
+}
+
+function myClickReaction (e:MouseEvent):void{
+	trace("In myClickReaction()");
+	rect.rotation += 5;
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[trace("In frame 10.");
+stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="140.4" height="24.3" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="280" ty="14.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>At frame 10.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.3" size="20" bitmapSize="400" face="Verdana-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Rect" name="rect">
+                                             <matrix>
+                                                  <Matrix tx="427.05" ty="342"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="75.95" y="44.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Circ" name="circ">
+                                             <matrix>
+                                                  <Matrix a="0.305694580078125" d="0.305694580078125" tx="189.1" ty="317.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="96.5" y="96.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="171.15" height="22.35" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="122.05" ty="378.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Click on the circle</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="227.7" height="22.35" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="322.05" ty="417.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Rectangle should rotate</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_3" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-149.95" ty="-82"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#33FFFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="3">
+                                                            <fill>
+                                                                 <SolidColor color="#FF0000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!3841 4380|6880 4380!6880 4380|6880 6160!6880 6160|3841 6160!3841 6160|3841 4380"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="Pentagon" name="pentagon" centerPoint3DX="65.8" centerPoint3DY="87.1">
+                                             <matrix>
+                                                  <Matrix tx="66.25" ty="87.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="29.55" y="30.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="126.65" height="24.3" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27.05" ty="14.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Simple4.fla</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.3" size="20" bitmapSize="400" face="Verdana-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.418365478515625" d="0.418365478515625" tx="-51.25" ty="28.4"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFCCFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="3">
+                                                            <fill>
+                                                                 <SolidColor color="#0000FF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!13920 6030[13920 6829 13354 7394!13354 7394[12789 7960 11990 7960!11990 7960[11191 7960 10625 7394!10625 7394[10060 6829 10060 6030!10060 6030[10060 5231 10625 4665!10625 4665[11191 4100 11990 4100!11990 4100[12789 4100 13354 4665!13354
+ 4665[13920 5231 13920 6030"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="240990" publishTime="1591368262"/>
+          <PublishItem publishSize="282050" publishTime="1583538479"/>
+          <PublishItem publishSize="282050" publishTime="1583538424"/>
+          <PublishItem publishSize="282054" publishTime="1583538402"/>
+          <PublishItem publishSize="281546" publishTime="1583537580"/>
+          <PublishItem publishSize="281503" publishTime="1583537468"/>
+          <PublishItem publishSize="281763" publishTime="1583537228"/>
+          <PublishItem publishSize="280993" publishTime="1583537063"/>
+          <PublishItem publishSize="280993" publishTime="1583537005"/>
+          <PublishItem publishSize="281112" publishTime="1581611909"/>
+          <PublishItem publishSize="1650" publishTime="1581611897"/>
+     </publishHistory>
+</DOMDocument>

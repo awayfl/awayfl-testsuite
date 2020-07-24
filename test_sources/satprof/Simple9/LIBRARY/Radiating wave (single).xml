@@ -1,0 +1,82 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Radiating wave (single)" itemID="469501b1-00000020" sourceFlashFilepath="../GVF510Intro2a.fla" sourceLibraryItemHRef="Radiating wave (single)" sourceLastModified="1290161456" lastModified="1290161456" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="Radiating wave (single)" currentFrame="80">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="80" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="-2.109375, 0" startPointB="#FFFF8B.2A, #0.56" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="1">
+                    <MorphCurves controlPointA="-2.109375, -0.875" anchorPointA="-1.4921875, -1.4921875" controlPointB="#FFFF8B.2A, #FFFFCF.EB" anchorPointB="#FFFFAD.51, #FFFFAD.C3"/>
+                    <MorphCurves controlPointA="-0.875, -2.109375" anchorPointA="0, -2.109375" controlPointB="-48.53125, #FFFF8B.9C" anchorPointB="-0.109375, #FFFF8B.9C"/>
+                    <MorphCurves controlPointA="#0.E, -2.109375" anchorPointA="#1.7E, -1.4921875" controlPointB="#30.5, #FFFF8B.9C" anchorPointB="#52.77, #FFFFAD.C3"/>
+                    <MorphCurves controlPointA="#2.1C, -0.875" anchorPointA="#2.1C, 0" controlPointB="#74.9F, #FFFFCF.EB" anchorPointB="#74.9F, #0.56"/>
+                    <MorphCurves controlPointA="#2.1C, #0.E" anchorPointA="#1.7E, #1.7E" controlPointB="#74.9F, #30.C2" anchorPointB="#52.77, #52.E9"/>
+                    <MorphCurves controlPointA="#0.E, #2.1C" anchorPointA="0, #2.1C" controlPointB="#30.5, #75.11" anchorPointB="-0.109375, #75.11"/>
+                    <MorphCurves controlPointA="-0.875, #2.1C" anchorPointA="-1.4921875, #1.7E" controlPointB="-48.53125, #75.11" anchorPointB="#FFFFAD.51, #52.E9"/>
+                    <MorphCurves controlPointA="-2.109375, #0.E" anchorPointA="-2.109375, 0" controlPointB="#FFFF8B.2A, #30.C2" anchorPointB="#FFFF8B.2A, #0.56"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="2.5" ty="-10.25"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0333251953125" d="0.0333251953125" tx="-2.5" ty="10.25"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FF0000" alpha="0.101960784313725" ratio="0.337254901960784"/>
+                        <GradientEntry color="#FF0000" alpha="0.741176470588235" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FF0000" alpha="0.231372549019608" ratio="0.6"/>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-50 -335S2[174 -335 332 -177!332 -177[490 -19 490 205!490 205[490 429 332 587!332 587[174 745 -50 745!-50 745[-274 745 -432 587!-432 587[-590 429 -590 205!-590 205[-590 -19 -432 -177!-432 -177[-274 -335 -50 -335"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="55.3379516601563" d="55.3379516601563" tx="136.95" ty="-562.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.45" y="10.2"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0333251953125" d="0.0333251953125" tx="-2.5" ty="10.25"/>
+                        </matrix>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FF0000" alpha="0.101960784313725" ratio="0.454901960784314"/>
+                        <GradientEntry color="#FF0000" alpha="0.741176470588235" ratio="0.474509803921569"/>
+                        <GradientEntry color="#FF0000" alpha="0.101960784313725" ratio="0.494117647058824"/>
+                        <GradientEntry color="#FF0000" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-50 -335S2[174 -335 332 -177!332 -177[490 -19 490 205!490 205[490 429 332 587!332 587[174 745 -50 745!-50 745[-274 745 -432 587!-432 587[-590 429 -590 205!-590 205[-590 -19 -432 -177!-432 -177[-274 -335 -50 -335"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

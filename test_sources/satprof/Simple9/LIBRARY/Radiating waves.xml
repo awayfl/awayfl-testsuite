@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Radiating waves" itemID="46950193-0000001e" sourceFlashFilepath="../GVF510Intro2a.fla" sourceLibraryItemHRef="Radiating waves" sourceLastModified="1589908014" lastModified="1589908014" lastUniqueIdentifier="7" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="Radiating waves" currentFrame="46">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" locked="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave (single)" selected="true" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

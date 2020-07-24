@@ -1,0 +1,421 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Example box" itemID="5effcbfa-00000311" lastModified="1593822202">
+  <timeline>
+    <DOMTimeline name="Example box">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.30534362792969" d="1.40594482421875" tx="-894.15" ty="-490.65"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!13700 6980|16300 6980!16300 6980|16300 8980!16300 8980|13700 8980!13700 8980|13700 6980"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-685.15" ty="-349.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-661.15" ty="-330.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-691.15" ty="-292.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-687.15" ty="-249.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-637.15" ty="-292.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-546.15" ty="-355.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-585.15" ty="-352.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-585.15" ty="-255.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-552.15" ty="-277.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-616.15" ty="-312.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-686.15" ty="-318.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-645.15" ty="-252.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-611.15" ty="-265.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-624.15" ty="-359.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-555.15" ty="-321.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-546.15" ty="-248.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCFF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!14280 7450[14280 7545 14233 7612!14233 7612[14186 7680 14120 7680!14120 7680[14054 7680 14007 7612!14007 7612[13960 7545 13960 7450!13960 7450[13960 7355 14007 7287!14007 7287[14054 7220 14120 7220!14120 7220[14186 7220 14233 7287!14233
+ 7287[14280 7355 14280 7450"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

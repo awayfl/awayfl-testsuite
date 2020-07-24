@@ -1,0 +1,188 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Template assets/Buttons/Gel Dot Red no legend" itemID="4a6f6d78-000002bf" symbolType="button" lastModified="1248816582">
+  <timeline>
+    <DOMTimeline name="Gel Dot Red no legend" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="0.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!89 -80[126 -43 126 8!126 8[126 59 89 95!89 95[53 132 2 132!2 132[-49 132 -86 95!-86 95[-122 59 -122 8!-122 8[-122 -43 -86 -80!-86 -80[-49 -116 2 -116!2 -116[53 -116 89 -80"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.2"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!89 -80[126 -43 126 8!126 8[126 59 89 95!89 95[53 132 2 132!2 132[-49 132 -86 95!-86 95[-122 59 -122 8!-122 8[-122 -43 -86 -80!-86 -80[-49 -116 2 -116!2 -116[53 -116 89 -80"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.022918701171875" d="0.022918701171875" tx="1.05" ty="7.1"/>
+                        </matrix>
+                        <GradientEntry color="#FED6D6" ratio="0"/>
+                        <GradientEntry color="#EC0202" ratio="0.345098039215686"/>
+                        <GradientEntry color="#9E0303" ratio="0.635294117647059"/>
+                        <GradientEntry color="#430101" ratio="0.937254901960784"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!181 -164[250 -94 250 3!250 3[250 100 181 170!181 170[111 239 13 239!13 239[-85 239 -154 170!-154 170[-224 100 -224 3!-224 3[-224 -94 -154 -164!-154 -164[-85 -234 13 -233!13 -233[111 -234 181 -164"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor alpha="0.498039215686275"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!180 -154[249 -84 249 13!249 13[249 110 180 180!180 180[110 249 12 249!12 249[-86 249 -155 180!-155 180[-225 110 -225 13!-225 13[-225 -84 -155 -154!-155 -154[-86 -224 12 -223!12 -223[110 -224 180 -154"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.011993408203125" d="0.006683349609375" tx="0.65" ty="-7.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" alpha="0.945098039215686" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                            <GradientEntry color="#2B2B2B" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!146 -218[201 -188 201 -143!201 -143[201 -101 146 -70!146 -70[90 -39 13 -39!13 -39[-65 -39 -120 -70!-120 -70[-177 -101 -176 -143!-176 -143[-177 -188 -120 -218!-120 -218[-65 -249 13 -249!13 -249[90 -249 146 -218"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.020233154296875" d="0.020233154296875" tx="0.65" ty="2.25"/>
+                        </matrix>
+                        <GradientEntry color="#676767" alpha="0.83921568627451" ratio="0.67843137254902"/>
+                        <GradientEntry color="#868686" alpha="0" ratio="0.917647058823529"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor alpha="0.498039215686275"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!181 -164[250 -94 250 3!250 3[250 100 181 170!181 170[111 239 13 239!13 239[-85 239 -154 170!-154 170[-224 100 -224 3!-224 3[-224 -94 -154 -164!-154 -164[-85 -234 13 -233!13 -233[111 -234 181 -164"/>
+                    <Edge fillStyle1="1" edges="!230 -201[317 -138 346 92!346 92[374 321 14 357!14 357[-116 357 -207 266!-207 266[-298 174 -298 46!-298 46[-298 -84 -207 -173!-207 -173[-116 -265 14 -265!14 -265[142 -265 230 -201"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <RadialGradient>
+                            <matrix>
+                              <Matrix a="0.011993408203125" d="0.006683349609375" tx="0.7" ty="-7.65"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" alpha="0.945098039215686" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                            <GradientEntry color="#2B2B2B" ratio="1"/>
+                          </RadialGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!147 -228[202 -198 202 -153!202 -153[202 -111 147 -80!147 -80[91 -49 14 -49!14 -49[-64 -49 -119 -80!-119 -80[-176 -111 -175 -153!-175 -153[-176 -198 -119 -228!-119 -228[-64 -259 14 -259!14 -259[91 -259 147 -228"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor alpha="0.498039215686275"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!149 9|-78 -117!-78 -117|-78 131!-78 131|149 9"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

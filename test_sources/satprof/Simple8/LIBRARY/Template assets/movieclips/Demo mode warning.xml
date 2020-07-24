@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Template assets/movieclips/Demo mode warning" itemID="51e06b3a-000003a1" lastModified="1373662010">
+  <timeline>
+    <DOMTimeline name="Demo mode warning">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="1" ty="-509.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.749019607843137"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17899 10619|-20 10619!-20 10619|-20 10199!-20 10199|17899 10199!17899 10199|17899 10619"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="862.95" height="12.05" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.05" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sample excerpt from GVF online training.  May not be copied or used without permission from SatProf, Inc.  To register, visit www.gvf.org/training.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" rotation="true" alpha="0.705882352941177" lineHeight="12.05" size="10" bitmapSize="200" face="Verdana-Bold" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,380 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.5 build 29329" majorVersion="20" minorVersion="5" buildNumber="29329" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <folders>
+          <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
+          <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
+          <DOMFolderItem name="Component Assets/Shared" itemID="44f892ff-0000001e"/>
+          <DOMFolderItem name="Component Assets/SliderSkins" itemID="44c91c94-00000267"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Arial Regular" itemID="5446b366-00000305" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialRegularEmbedded" font="ArialMT" size="0" id="1" sourceLastImported="1591754345" embedRanges="4|5|17"/>
+     </fonts>
+     <media>
+          <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="50f45de3-000003c1" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceExternalFilepath="./LIBRARY/Component Assets/_private/ComponentShim" sourceLastImported="1358192099" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="9904vgmrqe.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" persistLivePreview11="true" livePreview11ScmHRef="9905agmrqe.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="lBSX9Y5jU7802yucctAf9/">
+               <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1358192086103">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<componentData>
+<classDefs>
+	<classDef id="fl.core.AccessibilityShim"/>
+	<classDef id="fl.controls.CheckBox"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="fl.controls.List"/>
+	<classDef id="fl.controls.ComboBox"/>
+	<classDef id="fl.controls.ProgressBarDirection"/>
+	<classDef id="fl.data.SimpleCollectionItem"/>
+	<classDef id="fl.controls.TextArea"/>
+	<classDef id="fl.display.ProLoaderInfo"/>
+	<classDef id="fl.controls.Slider"/>
+	<classDef id="fl.events.DataChangeEvent"/>
+	<classDef id="fl.accessibility.ComboBoxAccImpl"/>
+	<classDef id="fl.events.DataChangeType"/>
+	<classDef id="fl.accessibility.TileListAccImpl"/>
+	<classDef id="fl.accessibility.ButtonAccImpl"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.DataGrid"/>
+	<classDef id="fl.display.ProLoader"/>
+	<classDef id="fl.containers.BaseScrollPane"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.controls.Label"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="fl.controls.UIScrollBar"/>
+	<classDef id="fl.controls.listClasses.ICellRenderer"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridCellEditor"/>
+	<classDef id="fl.controls.ColorPicker"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+	<classDef id="fl.events.DataGridEventReason"/>
+	<classDef id="fl.events.SliderEvent"/>
+	<classDef id="fl.events.SliderEventClickTarget"/>
+	<classDef id="fl.controls.progressBarClasses.IndeterminateBar"/>
+	<classDef id="fl.controls.listClasses.ListData"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.controls.RadioButtonGroup"/>
+	<classDef id="fl.controls.NumericStepper"/>
+	<classDef id="fl.accessibility.LabelButtonAccImpl"/>
+	<classDef id="fl.containers.UILoader"/>
+	<classDef id="fl.events.ColorPickerEvent"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.accessibility.CheckBoxAccImpl"/>
+	<classDef id="fl.managers.StyleManager"/>
+	<classDef id="fl.controls.TileList"/>
+	<classDef id="fl.controls.RadioButton"/>
+	<classDef id="fl.containers.ScrollPane"/>
+	<classDef id="fl.controls.listClasses.TileListData"/>
+	<classDef id="fl.events.InteractionInputType"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="fl.core.ComponentShim"/>
+	<classDef id="fl.accessibility.UIComponentAccImpl"/>
+	<classDef id="fl.controls.SelectableList"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="fl.accessibility.RadioButtonAccImpl"/>
+	<classDef id="fl.controls.listClasses.CellRenderer"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.controls.ScrollPolicy"/>
+	<classDef id="fl.controls.ScrollBar"/>
+	<classDef id="fl.controls.ProgressBar"/>
+	<classDef id="fl.controls.listClasses.ImageCell"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.controls.ProgressBarMode"/>
+	<classDef id="fl.accessibility.SelectableListAccImpl"/>
+	<classDef id="fl.controls.TextInput"/>
+	<classDef id="fl.events.ListEvent"/>
+	<classDef id="fl.accessibility.AccImpl"/>
+	<classDef id="fl.accessibility.DataGridAccImpl"/>
+	<classDef id="fl.events.ScrollEvent"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridColumn"/>
+	<classDef id="fl.events.DataGridEvent"/>
+	<classDef id="fl.data.TileListCollectionItem"/>
+	<classDef id="fl.data.DataProvider"/>
+	<classDef id="fl.accessibility.ListAccImpl"/>
+	<classDef id="fl.controls.dataGridClasses.HeaderRenderer"/>
+	<classDef id="fl.controls.ScrollBarDirection"/>
+	<classDef id="fl.controls.SliderDirection"/>
+</classDefs>
+<class id="fl.core.ComponentShim" >
+	<method id="ComponentShim" isConstructor="true" isProperty="false">
+	</method>
+</class>
+</componentData>
+</component>
+]]></classProperties>
+               <SwcItem name="fl.core.ComponentShim" version="1358192086" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+     </media>
+     <symbols>
+          <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
+          <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_disabledSkin.xml" itemID="44b6b7cb-00000026" lastModified="1168290382"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_downSkin.xml" itemID="44b6b7d2-00000027" lastModified="1168290388"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_overSkin.xml" itemID="44b6b7f2-0000002a" lastModified="1168290392"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_upSkin.xml" itemID="44b6b7e8-00000029" lastModified="1168290396"/>
+          <Include href="Component Assets/SliderSkins/SliderTick_skin.xml" itemID="44fdb8d4-000002a7" lastModified="1168290400"/>
+          <Include href="Component Assets/SliderSkins/SliderTrack_disabledSkin.xml" itemID="44bafbb2-00000054" lastModified="1168290405"/>
+          <Include href="Component Assets/SliderSkins/SliderTrack_skin.xml" itemID="44fdb8c9-000002a6" lastModified="1168290411"/>
+          <Include href="Slider.xml" itemID="44b670ee-000000f8" lastModified="1358192122"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="17">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import fl.controls.Slider;
+import fl.events.SliderEvent;
+slider_sldr.liveDragging = true; // Makes it fire whenever the slider is moved.  Otherwise fires when mouse is released.
+slider_sldr.tickInterval = 1;
+slider_sldr.minimum = 0;
+slider_sldr.snapInterval = .1;
+slider_sldr.maximum = 10;
+slider_sldr.value = 5;
+this.slider_sldr.addEventListener(SliderEvent.CHANGE, update);
+trace("In frame 1.")
+
+status_txt.text = String(slider_sldr.value);
+stop();
+
+function update(e:SliderEvent):void{
+	status_txt.text = String(slider_sldr.value);
+	trace("In update(), slider_sldr.value = "+slider_sldr.value);
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[trace("In frame 10.");
+stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" left="180" width="262.65" height="46.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="449" ty="451.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>At frame 10. Timeline must be running.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF">
+                         <frames>
+                              <DOMFrame index="0" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="status_txt" fontRenderingMode="device" top="-9.9" width="135" height="28" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="373" ty="152.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>0</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT" fillColor="#333333"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="Slider" name="slider_sldr" uniqueID="2">
+                                             <matrix>
+                                                  <Matrix a="2.78688049316406" tx="112.05" ty="154.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="40" y="1.5"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="liveDragging">
+      <Inspectable name="liveDragging" unlocalizedName="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="maximum">
+      <Inspectable name="maximum" unlocalizedName="maximum" variable="maximum" category="" verbose="0" defaultValue="10" type="Number"/>
+   </property>
+   <property id="minimum">
+      <Inspectable name="minimum" unlocalizedName="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="snapInterval">
+      <Inspectable name="snapInterval" unlocalizedName="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="tickInterval">
+      <Inspectable name="tickInterval" unlocalizedName="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_3" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="631.95" height="22.35" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27.05" ty="14.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Issue3.fla Slider component test</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="227.8" height="22.35" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="129" ty="99.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Drag slider to change text</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT" fillColor="#0000FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="50034" publishTime="1591754349"/>
+          <PublishItem publishSize="18095" publishTime="1591752940"/>
+          <PublishItem publishSize="16174" publishTime="1591752369"/>
+          <PublishItem publishSize="16162" publishTime="1591752288"/>
+          <PublishItem publishSize="1095" publishTime="1591752160"/>
+          <PublishItem publishSize="16875" publishTime="1591751848"/>
+          <PublishItem publishSize="16875" publishTime="1591751829"/>
+          <PublishItem publishSize="23114" publishTime="1591751772"/>
+          <PublishItem publishSize="23114" publishTime="1591751746"/>
+          <PublishItem publishSize="23114" publishTime="1591751715"/>
+          <PublishItem publishSize="23100" publishTime="1591751664"/>
+          <PublishItem publishSize="23089" publishTime="1591751606"/>
+          <PublishItem publishSize="23089" publishTime="1591751584"/>
+          <PublishItem publishSize="24928" publishTime="1591751472"/>
+          <PublishItem publishSize="20522" publishTime="1591751409"/>
+          <PublishItem publishSize="297896" publishTime="1591751259"/>
+          <PublishItem publishSize="297896" publishTime="1591750620"/>
+          <PublishItem publishSize="297896" publishTime="1591750498"/>
+          <PublishItem publishSize="297821" publishTime="1591750453"/>
+          <PublishItem publishSize="282594" publishTime="1591750430"/>
+     </publishHistory>
+     <swcCache>
+          <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="1hl8y962gz.swc">
+               <classDefinitions>
+                    <ClassDefinition value="fl.core.AccessibilityShim"/>
+                    <ClassDefinition value="fl.controls.CheckBox"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="fl.controls.List"/>
+                    <ClassDefinition value="fl.controls.ComboBox"/>
+                    <ClassDefinition value="fl.controls.ProgressBarDirection"/>
+                    <ClassDefinition value="fl.data.SimpleCollectionItem"/>
+                    <ClassDefinition value="fl.controls.TextArea"/>
+                    <ClassDefinition value="fl.display.ProLoaderInfo"/>
+                    <ClassDefinition value="fl.controls.Slider"/>
+                    <ClassDefinition value="fl.events.DataChangeEvent"/>
+                    <ClassDefinition value="fl.accessibility.ComboBoxAccImpl"/>
+                    <ClassDefinition value="fl.events.DataChangeType"/>
+                    <ClassDefinition value="fl.accessibility.TileListAccImpl"/>
+                    <ClassDefinition value="fl.accessibility.ButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.DataGrid"/>
+                    <ClassDefinition value="fl.display.ProLoader"/>
+                    <ClassDefinition value="fl.containers.BaseScrollPane"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.controls.Label"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="fl.controls.UIScrollBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ICellRenderer"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridCellEditor"/>
+                    <ClassDefinition value="fl.controls.ColorPicker"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+                    <ClassDefinition value="fl.events.DataGridEventReason"/>
+                    <ClassDefinition value="fl.events.SliderEvent"/>
+                    <ClassDefinition value="fl.events.SliderEventClickTarget"/>
+                    <ClassDefinition value="fl.controls.progressBarClasses.IndeterminateBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ListData"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.controls.RadioButtonGroup"/>
+                    <ClassDefinition value="fl.controls.NumericStepper"/>
+                    <ClassDefinition value="fl.accessibility.LabelButtonAccImpl"/>
+                    <ClassDefinition value="fl.containers.UILoader"/>
+                    <ClassDefinition value="fl.events.ColorPickerEvent"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.accessibility.CheckBoxAccImpl"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+                    <ClassDefinition value="fl.controls.TileList"/>
+                    <ClassDefinition value="fl.controls.RadioButton"/>
+                    <ClassDefinition value="fl.containers.ScrollPane"/>
+                    <ClassDefinition value="fl.controls.listClasses.TileListData"/>
+                    <ClassDefinition value="fl.events.InteractionInputType"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="fl.core.ComponentShim"/>
+                    <ClassDefinition value="fl.accessibility.UIComponentAccImpl"/>
+                    <ClassDefinition value="fl.controls.SelectableList"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="fl.accessibility.RadioButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.listClasses.CellRenderer"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="fl.controls.ScrollPolicy"/>
+                    <ClassDefinition value="fl.controls.ScrollBar"/>
+                    <ClassDefinition value="fl.controls.ProgressBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ImageCell"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.controls.ProgressBarMode"/>
+                    <ClassDefinition value="fl.accessibility.SelectableListAccImpl"/>
+                    <ClassDefinition value="fl.controls.TextInput"/>
+                    <ClassDefinition value="fl.events.ListEvent"/>
+                    <ClassDefinition value="fl.accessibility.AccImpl"/>
+                    <ClassDefinition value="fl.accessibility.DataGridAccImpl"/>
+                    <ClassDefinition value="fl.events.ScrollEvent"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridColumn"/>
+                    <ClassDefinition value="fl.events.DataGridEvent"/>
+                    <ClassDefinition value="fl.data.TileListCollectionItem"/>
+                    <ClassDefinition value="fl.data.DataProvider"/>
+                    <ClassDefinition value="fl.accessibility.ListAccImpl"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.HeaderRenderer"/>
+                    <ClassDefinition value="fl.controls.ScrollBarDirection"/>
+                    <ClassDefinition value="fl.controls.SliderDirection"/>
+               </classDefinitions>
+          </Swc>
+     </swcCache>
+</DOMDocument>

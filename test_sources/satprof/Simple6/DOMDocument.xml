@@ -1,0 +1,1257 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <folders>
+          <DOMFolderItem name="Template assets" itemID="595a7975-000003d5" isExpanded="true"/>
+          <DOMFolderItem name="Template assets/Buttons" itemID="57991514-0000064a"/>
+          <DOMFolderItem name="Template assets/Embedded fonts" itemID="595a78ca-000003d0" isExpanded="true"/>
+          <DOMFolderItem name="Template assets/images" itemID="4ce406d2-0000031a"/>
+          <DOMFolderItem name="Template assets/movieclips" itemID="57991514-00000648"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow Bold" itemID="595a771a-000003c8" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowBoldEmbedded" font="ArialNarrow-Bold" size="0" id="23" sourceLastImported="1499100954" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold Italic" itemID="595a7611-000003bf" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldItalicEmbedded" font="Verdana-BoldItalic" size="0" id="22" sourceLastImported="1499100689" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold" itemID="595a75e7-000003bd" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldEmbedded" font="Verdana-Bold" size="0" id="21" sourceLastImported="1499100647" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Italic" itemID="595a75ae-000003bb" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaItalicEmbedded" font="Verdana-Italic" size="0" id="20" sourceLastImported="1499100590" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Regular" itemID="595a7584-000003b9" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaRegularEmbedded" font="Verdana" size="0" id="19" sourceLastImported="1499100548" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Regular" itemID="5446b366-00000305" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialRegularEmbedded" font="ArialMT" size="0" id="2" sourceLastImported="1492187117" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Italic" itemID="5446b380-0000030a" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialItalicEmbedded" font="Arial-ItalicMT" size="0" id="3" sourceLastImported="1469633232" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold" itemID="5798d291-000002f6" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldEmbedded" font="Arial-BoldMT" size="0" id="4" sourceLastImported="1469633169" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow" itemID="58f0de65-0000063e" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowEmbedded" font="ArialNarrow" size="0" id="10" sourceLastImported="1492180581" embedRanges="4|5|17"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="Template assets/images/SatProf logo 150 pixels.gif" itemID="4ce402a4-000002e4" sourceExternalFilepath="./LIBRARY/Template assets/images/SatProf logo 150 pixels.gif" sourceLastImported="1233161343" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Template assets/images/SatProf logo 150 pixels.gif" bitmapDataHRef="M 1 1469650196.dat" frameRight="2980" frameBottom="1240"/>
+          <DOMBitmapItem name="SatProfLogo2018_forLightBG_verysmall.png" itemID="5d6bd222-000003e8" sourceExternalFilepath="./LIBRARY/SatProfLogo2018_forLightBG_verysmall.png" sourceLastImported="1548181566" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="SatProfLogo2018_forLightBG_verysmall.png" bitmapDataHRef="M 3 1567347234.dat" frameRight="5440" frameBottom="2640"/>
+     </media>
+     <symbols>
+          <Include href="Template assets/Buttons/Gel Circ Arrow MC.xml" loadImmediate="false" itemID="4cd87978-000000d7" lastModified="1303393969"/>
+          <Include href="Template assets/Buttons/Gel Dot Red no legend.xml" itemIcon="0" loadImmediate="false" itemID="4a6f6d78-000002bf" lastModified="1248816582"/>
+          <Include href="Template assets/Buttons/Gel Left Arrow MC.xml" loadImmediate="false" itemID="4cd87816-000000d5" lastModified="1303393945"/>
+          <Include href="Template assets/Buttons/Gel Right Arrow MC.xml" loadImmediate="false" itemID="4cd8780b-000000d4" lastModified="1303394013"/>
+          <Include href="Template assets/Buttons/Lang button.xml" loadImmediate="false" itemID="4cd89414-00000166" lastModified="1302024255"/>
+          <Include href="Template assets/movieclips/Demo mode warning.xml" loadImmediate="false" itemID="51e06b3a-000003a1" lastModified="1373662010"/>
+          <Include href="Template assets/movieclips/Font samples for embedding.xml" loadImmediate="false" itemID="54468ad8-000002e9" lastModified="1499101124"/>
+          <Include href="Template assets/movieclips/Unauthorized cover.xml" loadImmediate="false" itemID="4b5a3532-0000005d" lastModified="1567347293"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Static" color="#4FFFFF" locked="true" autoNamed="false" layerType="folder" heightLiteral="18"/>
+                    <DOMLayer name="Unauth cover" color="#4FFF4F" parentLayerIndex="0" locked="true" autoNamed="false" visible="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Template assets/movieclips/Unauthorized cover" name="unAuthCover" centerPoint3DX="450" centerPoint3DY="270">
+                                             <transformationPoint>
+                                                  <Point x="450" y="270"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Buttons" color="#4FFF4F" parentLayerIndex="0" locked="true" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="stepNo_txt" left="5.4" width="18" height="19" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="837.85" ty="507"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="14.5" bitmapSize="240" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="Template assets/Buttons/Gel Right Arrow MC" name="next_btn" centerPoint3DX="882.65" centerPoint3DY="520.95">
+                                             <matrix>
+                                                  <Matrix tx="881.3" ty="513.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1.35" y="7.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Template assets/Buttons/Gel Left Arrow MC" name="prev_btn" centerPoint3DX="820.85" centerPoint3DY="520.95">
+                                             <matrix>
+                                                  <Matrix tx="819.5" ty="513.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1.35" y="7.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Template assets/Buttons/Gel Circ Arrow MC" name="replay_btn" centerPoint3DX="764.95" centerPoint3DY="520.95">
+                                             <matrix>
+                                                  <Matrix tx="762.75" ty="513.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="2.2" y="7.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Template assets/Buttons/Lang button" name="language_btn" centerPoint3DX="886.3" centerPoint3DY="15">
+                                             <matrix>
+                                                  <Matrix tx="872.8" ty="6.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="13.5" y="8.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="SWF Name and copyright" color="#FF4F4F" parentLayerIndex="0" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="swfName_txt" width="233.1" height="9.65" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="633.95" ty="5.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>SWF name</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="7.05" lineHeight="9.65" size="8" bitmapSize="160" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMStaticText width="115" height="9.65" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="752.05" ty="16.4"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>© 2019 SatProf, Inc.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" aliasText="false" lineSpacing="6" lineHeight="9.65" size="8" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Font samples for embedding" color="#4FFF4F" parentLayerIndex="0" locked="true" autoNamed="false" visible="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Template assets/movieclips/Font samples for embedding" name="fontSamplesForEmbedding" centerPoint3DX="566" centerPoint3DY="119.35">
+                                             <matrix>
+                                                  <Matrix tx="462" ty="60.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="104" y="58.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Debug SWF name and btn" color="#4FFF4F" parentLayerIndex="0" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Template assets/Buttons/Gel Dot Red no legend" name="enterForcedSWFname_btn" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="0.328857421875" d="0.328857421875" tx="891.1" ty="30"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMInputText name="forcedSWFname_txt" width="247" height="9.65">
+                                             <matrix>
+                                                  <Matrix tx="620.05" ty="28.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Simple6</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="7.05" lineHeight="9.65" size="8" bitmapSize="160" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMInputText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Demo mode warning" color="#9933CC" parentLayerIndex="0" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Template assets/movieclips/Demo mode warning" name="demoModeWarning" centerPoint3DX="448.95" centerPoint3DY="520.45">
+                                             <matrix>
+                                                  <Matrix tx="1" ty="509.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="447.95" y="10.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Title" color="#FF800A" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="510" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="tt_0" width="763.95" height="29.2" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="6.05" ty="5.25"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Simple6</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="8.5" lineHeight="29.2" size="24" bitmapSize="480" face="Verdana-Bold" fillColor="#0000FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Actions" color="#4FFFFF" locked="true" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript breakpoints="74">
+                                        <script><![CDATA[//include "../../../../SVNContent/LibAS3/com/satprof/lib/IncludeStepByStep5.as"
+include "IncludeStepByStep5Away.as";
+
+
+// LearningPage17.fla.  Converted to use IncludeStepByStep5, with event group "igroup" and EXIT_FRAME. Added traceToConsole.
+// LearningPage16.fla. New SatProf logo in unauth cover. Saved in current Animate to stop breakpoint warning. RB 9/1/19
+// Learning Page 15.fla, with : Converted to use EventUtils2 with IncludeStepByStep4  RB 4/16/2018
+// Learning Page 14.fla: Fixed embedded font error, updated copyright date, and general tidy up. RB 7/3/17
+// Learning Page 13.fla: Compatible with Animate CC.  RB 7/27/2016
+//-------------------------------------------------------------------------------------
+// Mandatory edits:
+//   Replace the string in the originalFLAname =  line to match the FLA file name (leave off the .fla)
+//   If you have a movieclip with class that needs to finish loading before the FLA continues running, edit the  waitUntilReady() function.
+//   Edit the mandatory settings below.
+//-------------------------------------------------------------------------------------
+// If using an external translations file, you must also: 
+//     Set usingExternalTranslationsFile = true
+//     Uncomment the include "GVF4a_translations.as" line and replace with the name of your .as file 
+//     Uncomment loadTranslations() in the startupPhase1() function.
+//     Uncomment loadTranslations() in the  refreshTranslations() function.
+//	   Uncomment the langEnable() function calls (and/or create new ones)
+//  These lines are all marked with /// comments.
+
+var usingExternalTranslationsFile = false;  /// Set to True and uncomment the following include line if using an external translations file 
+///include "TemplateLearningPage12_translations.as"
+
+//-------------------------------------------------------------------------------------
+// Edit these mandatory settings as required:
+lastStep = 5;  // Edit this if there is more than one step.
+replay_btn.visible = false; // Optional
+secureMode = false;  // Set secureMode = true if swf will be run from within LP and running standalone is forbidden. Set secureMode = false to allow swf to run standalone.
+var switchableSWFmode = false;
+var originalFLAname = "Simple6"; // Must match the FLA file name
+var maxTranslations = 100;  // Max number of tt_nnn text fields in this FLA.
+//-------------------------------------------------------------------------------------
+// Declare any common variables here.  Do NOT put any calls to symbols here!  They may not be ready yet.
+
+
+//-------------------------------------------------------------------------------------
+// This section normally doe NOT need to be modified.
+trace("In SWF timeline script line 38");
+var translations:Vector.<Object>; //;Array
+var initialized = false;
+swfName = GetOwnSWFName(this);  // Automatically puts the actual SWF file name in the swfName_txt field in the corner.
+var useSWFname;
+var snp:SWFnameProperties;
+if (switchableSWFmode){
+	// swfName will be entered by user
+	useSWFname = forcedSWFname_txt.text;
+	eventUtils2.addListener(igroup, enterForcedSWFname_btn, MouseEvent.CLICK, enterForcedSWFnameClick);
+	trace("FYI: In FLA switchableSWFmode mode. Initial useSWFname = "+useSWFname);
+} else {
+	// swfName will be extracted from the actual file name at run time
+	forcedSWFname_txt.visible = false;
+	enterForcedSWFname_btn.visible = false;
+	useSWFname = GetOwnSWFName(this);  // Automatically puts the actual SWF file name in the swfName_txt field in the corner.
+	trace("useSWFname = "+useSWFname);
+}
+startupPhase1();
+startupPhase2();
+stop();
+function enterForcedSWFnameClick(e:MouseEvent){
+	useSWFname = forcedSWFname_txt.text;
+	trace("useSWFname = "+useSWFname);
+	startupPhase2();
+}
+function preventUnauthorizedViewing(){
+}
+function killEverything(){
+	// Will be called by LP when SWF unloads. 
+	// Note that all events created with eventUtils2.addListener() will be automatically removed by the Include file.
+	eventUtils2.kill(igroup);
+}
+function changeLanguage(){
+	refreshTranslations();
+	//trace("Changing language to "+_language);
+}
+
+//--------------------------------------------------------------------------
+function startupPhase1(){
+	trace("FYI: In FLA, startupPhase1()...");
+	initialized = false;
+	translations = new Vector.<Object>(maxTranslations);//;
+	for (var i=0; i<maxTranslations; i++){
+		translations[i] = new Object();
+	}
+	///loadTranslations(); // IMPORTANT: Uncomment if using an external translations file
+	fontSamplesForEmbedding.visible = false;
+	//-------------------------------------------------------------------------------------
+	// Put code here that runs only once when the swf first starts.  This code is NOT run when it restarts.  
+	
+	//-------------------------------------------------------------------------------------
+}
+function startupPhase2(){
+	trace("FYI: In FLA, startupPhase2()...");
+	initialized = false;
+	snp = new SWFnameProperties(originalFLAname, useSWFname);
+	swfName = snp.swfName;  // Automatically puts the actual SWF file name in the swfName_txt field in the corner.
+	// swf file name should be in the form flaName.swf or flaName-version_mode.swf or flaName_mode-version.swf or flaName_mode.swf
+	trace("FYI: In FLA, flaName = "+snp.flaName+", swfName = "+snp.swfName+", flaMatch = "+snp.flaMatch+", version = "+snp.version+", mode = "+snp.mode);
+	
+	
+	//-------------------------------------------------------------------------------------
+	// Put code here that runs when the swf starts or restarts.
+	trace("In FLA, stage = "+stage);
+	//-------------------------------------------------------------------------------------
+	//eventUtils2.addListener(igroup, this, Event.EXIT_FRAME, waitUntilReady);
+	//this.addEventListener(Event.EXIT_FRAME, waitUntilReady);
+	this.addEventListener(Event.ENTER_FRAME, waitUntilReady);
+}
+function startupPhase3(){
+	trace("FYI: In FLA, startupPhase3()...");
+	//-------------------------------------------------------------------------------------
+	// Put code here that runs when the swf starts or restarts, after all symbols are ready.
+	///langEnable("es", true);
+	///langEnable("pt", true);
+	
+	//-------------------------------------------------------------------------------------
+	//demoModeWarning.visible = (snp.version == "warning" || snp.flaMatch == false);
+	demoModeWarning.visible = false; // To workaround this.loaderInfo.url not working
+	_AllLoadedComponentsAreReady = true; // Defaults to False in the include file
+	initialized = true;
+	jumpTo(0); 
+}
+
+function waitUntilReady(e:Event){
+	trace("FYI: In FLA, waitUntilReady()...");
+	var allReady = false;
+	
+	/*
+	// Put code to test if loaded symbols are ready yet here.
+	try {
+		if (loaded_mc.ready){
+			// Wait until all the loaded MC's are ready!
+			allReady = true;
+		} else {
+			trace("FYI: In FLA, symbol(s) are not ready yet.");
+		}
+	} catch (error) {
+		trace("FYI: In FLA, error checking if symbol(s) are ready.");
+		return;
+	}
+	*/
+	allReady = true;  // Remove if actually testing for ready.
+	
+	if (allReady){
+		trace("FYI: In FLA waitUntilReady(),  allReady is true, calling startupPhase3 now");
+		//eventUtils2.removeListener(igroup, this, Event.EXIT_FRAME, waitUntilReady);
+		//this.removeEventListener(Event.EXIT_FRAME, waitUntilReady);
+		this.removeEventListener(Event.ENTER_FRAME, waitUntilReady);
+		startupPhase3();
+	}else{
+		trace("FYI: In FLA waitUntilReady(), allReady is false.");
+	}
+}
+
+function runEveryFrame(){
+	if (!initialized){
+		// In case we are in the middle of restarting
+		return;
+	}
+	//-------------------------------------------------------------------------------------
+	// Put code here that runs every frame
+	//trace("In FLA runEveryFrame");
+	//-------------------------------------------------------------------------------------
+}
+
+function playStep(step){
+	//-------------------------------------------------------------------------------------
+	// Put code here that runs when each step is entered.
+	switch (step) {
+		case 0:
+			reset();
+			break;
+		case 1:
+			reset();
+			break;
+		case 2:
+			reset();
+			break;
+		case 3:
+			reset();
+			break;
+		case 4:
+			reset();
+			break;
+		case 5:
+			reset();
+			break;
+		default:
+			reset();
+			break;
+	}
+	
+	//-------------------------------------------------------------------------------------
+}
+function reset(){
+	refreshTranslations();
+	//-------------------------------------------------------------------------------------
+	// Set everything back to a known state here.
+	
+	//-------------------------------------------------------------------------------------
+}
+function refreshTranslations(){
+	//-------------------------------------------------------------------------------------
+	// Execute any additional language switch commands (other than in the tt_xxx symbols and ext .as translations file)
+	//
+	//-------------------------------------------------------------------------------------
+	if(usingExternalTranslationsFile){
+		/// loadTranslations(); // Uncomment if using any calls to Phrases.as within the translation file
+		updateTranslationTexts(this, translations);
+	}
+}
+
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="7" name="Step0" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="9" name="Step1" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="9" name="Step2" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="29" duration="9" name="Step3" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="38" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="39" duration="9" name="Step4" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="48" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="49" duration="9" name="Step5" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="58" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="59" duration="9" name="Step6" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="69" duration="9" name="Step7" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="79" duration="9" name="Step8" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="88" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="89" duration="9" name="Step9" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="98" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="9" name="Step10" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="108" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="109" duration="9" name="Step11" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="118" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="119" duration="9" name="Step12" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="128" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="129" duration="9" name="Step13" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="138" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="139" duration="9" name="Step14" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="148" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="149" duration="9" name="Step15" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="158" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="159" duration="9" name="Step16" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="168" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="169" duration="9" name="Step17" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="178" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="179" duration="9" name="Step18" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="188" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="189" duration="9" name="Step19" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="198" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="199" duration="9" name="Step20" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="208" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="209" duration="9" name="Step21" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="218" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="219" duration="9" name="Step22" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="228" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="229" duration="9" name="Step23" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="238" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="239" duration="9" name="Step24" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="248" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="249" duration="9" name="Step25" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="258" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="259" duration="9" name="Step26" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="268" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="269" duration="9" name="Step27" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="278" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="279" duration="9" name="Step28" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="288" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="289" duration="9" name="Step29" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="298" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="299" duration="9" name="Step30" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="308" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="309" duration="9" name="Step31" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="318" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="319" duration="9" name="Step32" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="328" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="329" duration="9" name="Step33" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="338" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="339" duration="9" name="Step34" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="348" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="349" duration="9" name="Step35" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="358" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="359" duration="9" name="Step36" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="368" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="369" duration="9" name="Step37" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="378" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="379" duration="9" name="Step38" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="388" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="389" duration="9" name="Step39" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="398" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="399" duration="9" name="Step40" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="408" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="409" duration="9" name="Step41" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="418" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="419" duration="9" name="Step42" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="428" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="429" duration="9" name="Step43" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="438" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="439" duration="9" name="Step44" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="448" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="449" duration="9" name="Step45" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="458" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="459" duration="9" name="Step46" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="468" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="469" duration="9" name="Step47" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="478" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="479" duration="9" name="Step48" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="488" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="489" duration="9" name="Step49" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="498" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="499" duration="9" name="Step50" labelType="name" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="508" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="509" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Steps" color="#808080" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="694.1" height="83.8" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Uses SatProf standard step-by-step learning template (modified)&#xD;and include "IncludeStepByStep5Away.as"&#xD;to work around problem of this.loaderInfo.url not returning the SWF file path, and EXIT_FRAME events not working.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="349.05" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Step1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" width="349.05" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Step2</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" width="349.05" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Step3</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="39" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" width="349.05" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Step4</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="49" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" width="349.05" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Step5</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="349.05" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="4.9" ty="46"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Step6</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="79" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="89" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="99" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="109" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="119" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="129" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="139" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="880.95" height="90.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="6.05" ty="50"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tt_1  To use external translation file, see top of Actions scripts.&#xD;See SP-DEV-006 for how to use translation texts. Use Classic Dynamic multiline textfields.&#xD;&#xD;Use HTML for bulleted lists. You may use these tags: &lt;b&gt;&lt;/b&gt; &lt;i&gt;&lt;/i&gt; &lt;li&gt; &lt;/li&gt; &lt;br&gt;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="880.95" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="6.05" ty="165"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tt_2</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="880.95" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="6.05" ty="225"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tt_3</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="725.9" height="138.2" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27.05" ty="365"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>A simple TLF text field. Use Verdana font for normal text.  Remember to embed fonts for any dynamic text field (Basic Latin, Punctuation, and Latin 1).&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>●    This is TLF text bulleted with indents and tabs set.&#xD;●    Another bullet with wrap-around text that goes on and on and on and on and on and on and on and on and on.&#xD;●    And another bullet.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" indent="-24" leftMargin="24" lineSpacing="4.3" lineHeight="19.45" size="16" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="149" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="159" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="169" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="179" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="189" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="199" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="209" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="219" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="229" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="239" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="249" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="259" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="269" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="279" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="289" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="299" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="309" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="319" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="329" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="339" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="349" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="359" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="369" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="379" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="389" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="399" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="409" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="419" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="429" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="439" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="449" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="459" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="469" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="479" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="489" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="499" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="509" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" locked="true" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="69" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="265635" publishTime="1591480680"/>
+          <PublishItem publishSize="265635" publishTime="1591480615"/>
+          <PublishItem publishSize="265635" publishTime="1591480599"/>
+          <PublishItem publishSize="265635" publishTime="1591480580"/>
+          <PublishItem publishSize="225280" publishTime="1591368588"/>
+          <PublishItem publishSize="225280" publishTime="1591368564"/>
+          <PublishItem publishSize="376292" publishTime="1589375423"/>
+          <PublishItem publishSize="403475" publishTime="1589375178"/>
+          <PublishItem publishSize="403744" publishTime="1589374822"/>
+          <PublishItem publishSize="403745" publishTime="1589339044"/>
+          <PublishItem publishSize="403542" publishTime="1589338979"/>
+          <PublishItem publishSize="403440" publishTime="1589338859"/>
+          <PublishItem publishSize="403696" publishTime="1589338498"/>
+          <PublishItem publishSize="403684" publishTime="1589338349"/>
+          <PublishItem publishSize="403718" publishTime="1589337884"/>
+          <PublishItem publishSize="403726" publishTime="1589337690"/>
+          <PublishItem publishSize="403433" publishTime="1589337087"/>
+          <PublishItem publishSize="293565" publishTime="1589336970"/>
+          <PublishItem publishSize="403632" publishTime="1589336828"/>
+          <PublishItem publishSize="403354" publishTime="1589336604"/>
+     </publishHistory>
+</DOMDocument>

@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="VSAT ant side view mount" itemID="43c80c3e-0000021d" linkageExportForAS="true" linkageIdentifier="VSAT ant side view mount" linkageClassName="VSAT ant side view mount" sourceFlashFilepath="../GVF510Intro2a.fla" sourceLibraryItemHRef="VSAT ant side view mount" sourceLastModified="1137186451" lastModified="1137186451" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="VSAT ant side view mount">
+      <layers>
+        <DOMLayer name="Mount" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!435 59|572 59!572 59|558 -100!558 -100|-45 -255!-45 -255|-30 55!-30 55|235 59"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!235 59|435 59"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!235 59|235 1505!235 1505|435 1505!435 1505|435 59"/>
+                    <Edge cubics="!-45 -255(;-45,-255 558,-100 558,-100q-45 -255 558 -100);"/>
+                    <Edge cubics="!558 -100(558,-100;558,-100 570,-75 570,-75q558 -100 570 -75);"/>
+                    <Edge cubics="!-30 55(;-30,55 235,59 235,59q-30 55 235 59);"/>
+                    <Edge cubics="!435 59(;435,59 572,59 572,59q435 59 572 59);"/>
+                    <Edge cubics="!235 59(;235,59 435,59 435,59q235 59 435 59);"/>
+                    <Edge cubics="!435 1505(;435,1505 235,1505 235,1505q435 1505 235 1505);"/>
+                    <Edge cubics="!235 1505(235,1505;235,1505 235,59 235,59q235 1505 235 59);"/>
+                    <Edge cubics="!435 59(435,59;435,59 435,1505 435,1505q435 59 435 1505);"/>
+                    <Edge cubics="!-45 -255(;-45,-255 -30,55 -30,55q-45 -255 -30 55)-30,55;"/>
+                    <Edge cubics="!572 59(;572,59 558,-100 558,-100q572 59 558 -100);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

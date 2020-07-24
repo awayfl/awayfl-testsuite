@@ -1,0 +1,315 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Template assets/movieclips/Font samples for embedding" itemID="54468ad8-000002e9" lastModified="1589896525">
+  <timeline>
+    <DOMTimeline name="Font samples for embedding">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="vr" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="129.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Verdana Regular</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="vi" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="161.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Verdana Italic</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana-Italic"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="vb" width="203" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="193.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Verdana Bold</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="vbi" width="204" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="224.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Verdana Bold Italic</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana-BoldItalic"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="ar" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.05" ty="256.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arial regular</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="ai" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.05" ty="287.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arial italic</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="Arial-ItalicMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="ab" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.05" ty="319.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arial bold</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="abi" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.05" ty="350.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arial bold italic</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="Arial-BoldItalicMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="an" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.05" ty="382.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arial Narrow</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialNarrow"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMStaticText width="152.25" height="19.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8.05" ty="92.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sample &amp; lib name</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="66.75" height="19.45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="226" ty="92.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AS class</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="194.15" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="223" ty="130.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>VerdanaRegularEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="171" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="223" ty="162.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>VerdanaItalicEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="170.1" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="223" ty="193.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>VerdanaBoldEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="203" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="223" ty="225.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>VerdanaBoldItalicEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="249" height="77.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7.1" ty="-5.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>All fonts contain:&#xD;Punctuation&#xD;Basic Latin&#xD;Latin 1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="0" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="165.65" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="224.05" ty="257.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ArialRegularEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="142.5" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="224.05" ty="288.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ArialItalicEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="141.6" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="224.05" ty="320.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ArialBoldEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="174.5" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="224.05" ty="351.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ArialBoldItalicEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="161.2" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="224.05" ty="383.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ArialNarrowEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="anb" width="202" height="19.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.05" ty="413.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Arial Narrow Bold</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialNarrow-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMStaticText width="193.2" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="224.05" ty="414.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ArialNarrowBoldEmbedded</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="4.3" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

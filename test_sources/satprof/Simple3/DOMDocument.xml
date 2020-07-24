@@ -1,0 +1,453 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <folders>
+          <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
+          <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
+          <DOMFolderItem name="Component Assets/ButtonSkins" itemID="44c91bad-00000231"/>
+          <DOMFolderItem name="Component Assets/Shared" itemID="44f892ff-0000001e"/>
+          <DOMFolderItem name="Component Assets/SliderSkins" itemID="44c91c94-00000267"/>
+          <DOMFolderItem name="Template assets" itemID="595a7975-000003d5" isExpanded="true"/>
+          <DOMFolderItem name="Template assets/Buttons" itemID="57991514-0000064a"/>
+          <DOMFolderItem name="Template assets/Embedded fonts" itemID="595a78ca-000003d0"/>
+          <DOMFolderItem name="Template assets/images" itemID="4ce406d2-0000031a"/>
+          <DOMFolderItem name="Template assets/movieclips" itemID="57991514-00000648"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow" itemID="58f0de65-0000063e" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowEmbedded" font="ArialNarrow" size="0" id="10" sourceLastImported="1492180581" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold Italic" itemID="5446b3b2-00000312" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldItalicEmbedded" font="Arial-BoldItalicMT" size="0" id="5" sourceLastImported="1499100876" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold" itemID="5798d291-000002f6" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldEmbedded" font="Arial-BoldMT" size="0" id="4" sourceLastImported="1469633169" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Italic" itemID="5446b380-0000030a" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialItalicEmbedded" font="Arial-ItalicMT" size="0" id="3" sourceLastImported="1469633232" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Regular" itemID="5446b366-00000305" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialRegularEmbedded" font="ArialMT" size="0" id="2" sourceLastImported="1492187117" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Regular" itemID="595a7584-000003b9" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaRegularEmbedded" font="Verdana" size="0" id="19" sourceLastImported="1499100548" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Italic" itemID="595a75ae-000003bb" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaItalicEmbedded" font="Verdana-Italic" size="0" id="20" sourceLastImported="1499100590" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold" itemID="595a75e7-000003bd" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldEmbedded" font="Verdana-Bold" size="0" id="21" sourceLastImported="1499100647" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold Italic" itemID="595a7611-000003bf" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldItalicEmbedded" font="Verdana-BoldItalic" size="0" id="22" sourceLastImported="1499100689" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow Bold" itemID="595a771a-000003c8" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowBoldEmbedded" font="ArialNarrow-Bold" size="0" id="23" sourceLastImported="1499100954" embedRanges="4|5|17"/>
+     </fonts>
+     <media>
+          <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="50f45de3-000003c1" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceExternalFilepath="./LIBRARY/Component Assets/_private/ComponentShim" sourceLastImported="1358192099" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="9904vgmrqe.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" persistLivePreview11="true" livePreview11ScmHRef="9905agmrqe.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="lBSX9Y5jU7802yucctAf9/">
+               <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1358192086103">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<componentData>
+<classDefs>
+	<classDef id="fl.core.AccessibilityShim"/>
+	<classDef id="fl.controls.CheckBox"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="fl.controls.List"/>
+	<classDef id="fl.controls.ComboBox"/>
+	<classDef id="fl.controls.ProgressBarDirection"/>
+	<classDef id="fl.data.SimpleCollectionItem"/>
+	<classDef id="fl.controls.TextArea"/>
+	<classDef id="fl.display.ProLoaderInfo"/>
+	<classDef id="fl.controls.Slider"/>
+	<classDef id="fl.events.DataChangeEvent"/>
+	<classDef id="fl.accessibility.ComboBoxAccImpl"/>
+	<classDef id="fl.events.DataChangeType"/>
+	<classDef id="fl.accessibility.TileListAccImpl"/>
+	<classDef id="fl.accessibility.ButtonAccImpl"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.DataGrid"/>
+	<classDef id="fl.display.ProLoader"/>
+	<classDef id="fl.containers.BaseScrollPane"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.controls.Label"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="fl.controls.UIScrollBar"/>
+	<classDef id="fl.controls.listClasses.ICellRenderer"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridCellEditor"/>
+	<classDef id="fl.controls.ColorPicker"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+	<classDef id="fl.events.DataGridEventReason"/>
+	<classDef id="fl.events.SliderEvent"/>
+	<classDef id="fl.events.SliderEventClickTarget"/>
+	<classDef id="fl.controls.progressBarClasses.IndeterminateBar"/>
+	<classDef id="fl.controls.listClasses.ListData"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.controls.RadioButtonGroup"/>
+	<classDef id="fl.controls.NumericStepper"/>
+	<classDef id="fl.accessibility.LabelButtonAccImpl"/>
+	<classDef id="fl.containers.UILoader"/>
+	<classDef id="fl.events.ColorPickerEvent"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.accessibility.CheckBoxAccImpl"/>
+	<classDef id="fl.managers.StyleManager"/>
+	<classDef id="fl.controls.TileList"/>
+	<classDef id="fl.controls.RadioButton"/>
+	<classDef id="fl.containers.ScrollPane"/>
+	<classDef id="fl.controls.listClasses.TileListData"/>
+	<classDef id="fl.events.InteractionInputType"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="fl.core.ComponentShim"/>
+	<classDef id="fl.accessibility.UIComponentAccImpl"/>
+	<classDef id="fl.controls.SelectableList"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="fl.accessibility.RadioButtonAccImpl"/>
+	<classDef id="fl.controls.listClasses.CellRenderer"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.controls.ScrollPolicy"/>
+	<classDef id="fl.controls.ScrollBar"/>
+	<classDef id="fl.controls.ProgressBar"/>
+	<classDef id="fl.controls.listClasses.ImageCell"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.controls.ProgressBarMode"/>
+	<classDef id="fl.accessibility.SelectableListAccImpl"/>
+	<classDef id="fl.controls.TextInput"/>
+	<classDef id="fl.events.ListEvent"/>
+	<classDef id="fl.accessibility.AccImpl"/>
+	<classDef id="fl.accessibility.DataGridAccImpl"/>
+	<classDef id="fl.events.ScrollEvent"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridColumn"/>
+	<classDef id="fl.events.DataGridEvent"/>
+	<classDef id="fl.data.TileListCollectionItem"/>
+	<classDef id="fl.data.DataProvider"/>
+	<classDef id="fl.accessibility.ListAccImpl"/>
+	<classDef id="fl.controls.dataGridClasses.HeaderRenderer"/>
+	<classDef id="fl.controls.ScrollBarDirection"/>
+	<classDef id="fl.controls.SliderDirection"/>
+</classDefs>
+<class id="fl.core.ComponentShim" >
+	<method id="ComponentShim" isConstructor="true" isProperty="false">
+	</method>
+</class>
+</componentData>
+</component>
+]]></classProperties>
+               <SwcItem name="fl.core.ComponentShim" version="1358192086" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMBitmapItem name="Template assets/images/SatProf logo 150 pixels.gif" itemID="4ce402a4-000002e4" sourceExternalFilepath="./LIBRARY/Template assets/images/SatProf logo 150 pixels.gif" sourceLastImported="1233161343" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Template assets/images/SatProf logo 150 pixels.gif" bitmapDataHRef="M 1 1469650196.dat" frameRight="2980" frameBottom="1240"/>
+          <DOMBitmapItem name="SatProfLogo2018_forLightBG_verysmall.png" itemID="5d6bd222-000003e8" sourceExternalFilepath="./LIBRARY/SatProfLogo2018_forLightBG_verysmall.png" sourceLastImported="1548181566" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="SatProfLogo2018_forLightBG_verysmall.png" bitmapDataHRef="M 3 1567347234.dat" frameRight="5440" frameBottom="2640"/>
+     </media>
+     <symbols>
+          <Include href="Button.xml" itemID="44a4944a-00000029" lastModified="1358192121"/>
+          <Include href="Circ.xml" loadImmediate="false" itemID="5e457bf3-00000171" lastModified="1581612019"/>
+          <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
+          <Include href="Component Assets/ButtonSkins/Button_disabledSkin.xml" itemID="44a3379e-00000015" lastModified="1168286804"/>
+          <Include href="Component Assets/ButtonSkins/Button_downSkin.xml" itemID="44a337b6-00000016" lastModified="1168286817"/>
+          <Include href="Component Assets/ButtonSkins/Button_emphasizedSkin.xml" itemID="44d77ae1-0000001b" lastModified="1168286841"/>
+          <Include href="Component Assets/ButtonSkins/Button_overSkin.xml" itemID="44a33775-00000013" lastModified="1168286854"/>
+          <Include href="Component Assets/ButtonSkins/Button_selectedDisabledSkin.xml" itemID="44a3392f-0000001e" lastModified="1168286863"/>
+          <Include href="Component Assets/ButtonSkins/Button_selectedDownSkin.xml" itemID="44a33885-0000001c" lastModified="1168286872"/>
+          <Include href="Component Assets/ButtonSkins/Button_selectedOverSkin.xml" itemID="44a3384e-0000001a" lastModified="1168286879"/>
+          <Include href="Component Assets/ButtonSkins/Button_selectedUpSkin.xml" itemID="44a3380d-00000018" lastModified="1168286889"/>
+          <Include href="Component Assets/ButtonSkins/Button_upSkin.xml" itemID="44a3377f-00000014" lastModified="1168286905"/>
+          <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_disabledSkin.xml" itemID="44b6b7cb-00000026" lastModified="1168290382"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_downSkin.xml" itemID="44b6b7d2-00000027" lastModified="1168290388"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_overSkin.xml" itemID="44b6b7f2-0000002a" lastModified="1168290392"/>
+          <Include href="Component Assets/SliderSkins/SliderThumb_upSkin.xml" itemID="44b6b7e8-00000029" lastModified="1168290396"/>
+          <Include href="Component Assets/SliderSkins/SliderTick_skin.xml" itemID="44fdb8d4-000002a7" lastModified="1168290400"/>
+          <Include href="Component Assets/SliderSkins/SliderTrack_disabledSkin.xml" itemID="44bafbb2-00000054" lastModified="1168290405"/>
+          <Include href="Component Assets/SliderSkins/SliderTrack_skin.xml" itemID="44fdb8c9-000002a6" lastModified="1168290411"/>
+          <Include href="Rect.xml" loadImmediate="false" itemID="5e457be8-0000016c" lastModified="1581612009"/>
+          <Include href="Slider.xml" itemID="44b670ee-000000f8" lastModified="1358192122"/>
+          <Include href="Template assets/Buttons/Gel Circ Arrow MC.xml" loadImmediate="false" itemID="4cd87978-000000d7" lastModified="1303393969"/>
+          <Include href="Template assets/Buttons/Gel Dot Red no legend.xml" itemIcon="0" loadImmediate="false" itemID="4a6f6d78-000002bf" lastModified="1248816582"/>
+          <Include href="Template assets/Buttons/Gel Left Arrow MC.xml" loadImmediate="false" itemID="4cd87816-000000d5" lastModified="1303393945"/>
+          <Include href="Template assets/Buttons/Gel Right Arrow MC.xml" loadImmediate="false" itemID="4cd8780b-000000d4" lastModified="1303394013"/>
+          <Include href="Template assets/Buttons/Lang button.xml" loadImmediate="false" itemID="4cd89414-00000166" lastModified="1302024255"/>
+          <Include href="Template assets/movieclips/Demo mode warning.xml" loadImmediate="false" itemID="51e06b3a-000003a1" lastModified="1373662010"/>
+          <Include href="Template assets/movieclips/Font samples for embedding.xml" loadImmediate="false" itemID="54468ad8-000002e9" lastModified="1499101124"/>
+          <Include href="Template assets/movieclips/Unauthorized cover.xml" loadImmediate="false" itemID="4b5a3532-0000005d" lastModified="1567347293"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import fl.controls.Slider;
+import fl.events.SliderEvent;
+
+this.ccw_btn.mouseEnabled = true;
+this.cw_btn.mouseEnabled = true;
+this.slider.mouseEnabled = true;
+
+ccw_btn.addEventListener(MouseEvent.CLICK, rotateCCW);
+cw_btn.addEventListener(MouseEvent.CLICK, rotateCW);
+slider.addEventListener(SliderEvent.CHANGE, sliderChangeHandler);
+slider.liveDragging = true; // Makes it fire whenever the slider is moved.  Otherwise fires when mouse is released.
+rot_txt.text = "Rotation = "+String(rect.rotation)+" deg";
+
+function rotateCW (e:MouseEvent):void{
+	rect.rotation += 5;
+	rot_txt.text = "Rotation = "+String(rect.rotation)+" deg";
+}
+function rotateCCW (e:MouseEvent):void{
+	rect.rotation -= 5;
+	rot_txt.text = "Rotation = "+String(rect.rotation)+" deg";
+}
+function sliderChangeHandler (e:SliderEvent):void{
+	rect.rotation = slider.value;
+	rot_txt.text = "Rotation = "+String(rect.rotation)+" deg";
+}]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="68" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="69" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="126.65" height="24.3" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="312" ty="32.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Simple3.fla</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.3" size="20" bitmapSize="400" face="Verdana-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Rect" name="rect">
+                                             <matrix>
+                                                  <Matrix tx="535.05" ty="286"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="75.95" y="44.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Circ" name="ccw_btn">
+                                             <matrix>
+                                                  <Matrix a="0.233154296875" d="0.233154296875" tx="204.1" ty="125.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="96.5" y="96.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="115.7" height="22.35" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="30.1" ty="135.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Rotate CCW</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMDynamicText name="rot_txt" fontRenderingMode="standard" width="308.95" height="22.35" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="512.05" ty="454.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>xxx</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMComponentInstance libraryItemName="Button" name="cw_btn" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="184" ty="190"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="11"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="emphasized">
+      <Inspectable name="emphasized" unlocalizedName="emphasized" variable="emphasized" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="label">
+      <Inspectable name="label" unlocalizedName="label" variable="label" category="" verbose="0" defaultValue="CW" type="String"/>
+   </property>
+   <property id="labelPlacement">
+      <Inspectable name="labelPlacement" unlocalizedName="labelPlacement" variable="labelPlacement" category="" verbose="0" defaultValue="right" enumeration="left,right,top,bottom" type="List"/>
+   </property>
+   <property id="selected">
+      <Inspectable name="selected" unlocalizedName="selected" variable="selected" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="toggle">
+      <Inspectable name="toggle" unlocalizedName="toggle" variable="toggle" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="101.25" height="22.35" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="30.1" ty="188.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Rotate CW</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMComponentInstance libraryItemName="Slider" name="slider" uniqueID="2">
+                                             <matrix>
+                                                  <Matrix a="3.05000305175781" tx="48.05" ty="346.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="40.15" y="1.5"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="direction">
+      <Inspectable name="direction" unlocalizedName="direction" variable="direction" category="" verbose="0" defaultValue="horizontal" enumeration="horizontal,vertical" type="List"/>
+   </property>
+   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="liveDragging">
+      <Inspectable name="liveDragging" unlocalizedName="liveDragging" variable="liveDragging" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="maximum">
+      <Inspectable name="maximum" unlocalizedName="maximum" variable="maximum" category="" verbose="0" defaultValue="360" type="Number"/>
+   </property>
+   <property id="minimum">
+      <Inspectable name="minimum" unlocalizedName="minimum" variable="minimum" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="snapInterval">
+      <Inspectable name="snapInterval" unlocalizedName="snapInterval" variable="snapInterval" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+   <property id="tickInterval">
+      <Inspectable name="tickInterval" unlocalizedName="tickInterval" variable="tickInterval" category="" verbose="0" defaultValue="10" type="Number"/>
+   </property>
+   <property id="value">
+      <Inspectable name="value" unlocalizedName="value" variable="value" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="166.7" height="22.35" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="90.1" ty="309.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Rotate with slider</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="260611" publishTime="1591368496"/>
+          <PublishItem publishSize="260611" publishTime="1591368469"/>
+          <PublishItem publishSize="301723" publishTime="1581635050"/>
+          <PublishItem publishSize="301723" publishTime="1581612972"/>
+          <PublishItem publishSize="301704" publishTime="1581612935"/>
+          <PublishItem publishSize="283204" publishTime="1581612897"/>
+          <PublishItem publishSize="301692" publishTime="1581612808"/>
+          <PublishItem publishSize="301608" publishTime="1581612770"/>
+          <PublishItem publishSize="301604" publishTime="1581612722"/>
+          <PublishItem publishSize="301603" publishTime="1581612695"/>
+          <PublishItem publishSize="283231" publishTime="1581612669"/>
+          <PublishItem publishSize="298177" publishTime="1581612424"/>
+          <PublishItem publishSize="281596" publishTime="1581612221"/>
+          <PublishItem publishSize="281384" publishTime="1581612146"/>
+          <PublishItem publishSize="281112" publishTime="1581611909"/>
+          <PublishItem publishSize="1650" publishTime="1581611897"/>
+     </publishHistory>
+     <swcCache>
+          <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="tzz2f5nfvl.swc">
+               <classDefinitions>
+                    <ClassDefinition value="fl.core.AccessibilityShim"/>
+                    <ClassDefinition value="fl.controls.CheckBox"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="fl.controls.List"/>
+                    <ClassDefinition value="fl.controls.ComboBox"/>
+                    <ClassDefinition value="fl.controls.ProgressBarDirection"/>
+                    <ClassDefinition value="fl.data.SimpleCollectionItem"/>
+                    <ClassDefinition value="fl.controls.TextArea"/>
+                    <ClassDefinition value="fl.display.ProLoaderInfo"/>
+                    <ClassDefinition value="fl.controls.Slider"/>
+                    <ClassDefinition value="fl.events.DataChangeEvent"/>
+                    <ClassDefinition value="fl.accessibility.ComboBoxAccImpl"/>
+                    <ClassDefinition value="fl.events.DataChangeType"/>
+                    <ClassDefinition value="fl.accessibility.TileListAccImpl"/>
+                    <ClassDefinition value="fl.accessibility.ButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.DataGrid"/>
+                    <ClassDefinition value="fl.display.ProLoader"/>
+                    <ClassDefinition value="fl.containers.BaseScrollPane"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.controls.Label"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="fl.controls.UIScrollBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ICellRenderer"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridCellEditor"/>
+                    <ClassDefinition value="fl.controls.ColorPicker"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+                    <ClassDefinition value="fl.events.DataGridEventReason"/>
+                    <ClassDefinition value="fl.events.SliderEvent"/>
+                    <ClassDefinition value="fl.events.SliderEventClickTarget"/>
+                    <ClassDefinition value="fl.controls.progressBarClasses.IndeterminateBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ListData"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.controls.RadioButtonGroup"/>
+                    <ClassDefinition value="fl.controls.NumericStepper"/>
+                    <ClassDefinition value="fl.accessibility.LabelButtonAccImpl"/>
+                    <ClassDefinition value="fl.containers.UILoader"/>
+                    <ClassDefinition value="fl.events.ColorPickerEvent"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.accessibility.CheckBoxAccImpl"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+                    <ClassDefinition value="fl.controls.TileList"/>
+                    <ClassDefinition value="fl.controls.RadioButton"/>
+                    <ClassDefinition value="fl.containers.ScrollPane"/>
+                    <ClassDefinition value="fl.controls.listClasses.TileListData"/>
+                    <ClassDefinition value="fl.events.InteractionInputType"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="fl.core.ComponentShim"/>
+                    <ClassDefinition value="fl.accessibility.UIComponentAccImpl"/>
+                    <ClassDefinition value="fl.controls.SelectableList"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="fl.accessibility.RadioButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.listClasses.CellRenderer"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="fl.controls.ScrollPolicy"/>
+                    <ClassDefinition value="fl.controls.ScrollBar"/>
+                    <ClassDefinition value="fl.controls.ProgressBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ImageCell"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.controls.ProgressBarMode"/>
+                    <ClassDefinition value="fl.accessibility.SelectableListAccImpl"/>
+                    <ClassDefinition value="fl.controls.TextInput"/>
+                    <ClassDefinition value="fl.events.ListEvent"/>
+                    <ClassDefinition value="fl.accessibility.AccImpl"/>
+                    <ClassDefinition value="fl.accessibility.DataGridAccImpl"/>
+                    <ClassDefinition value="fl.events.ScrollEvent"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridColumn"/>
+                    <ClassDefinition value="fl.events.DataGridEvent"/>
+                    <ClassDefinition value="fl.data.TileListCollectionItem"/>
+                    <ClassDefinition value="fl.data.DataProvider"/>
+                    <ClassDefinition value="fl.accessibility.ListAccImpl"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.HeaderRenderer"/>
+                    <ClassDefinition value="fl.controls.ScrollBarDirection"/>
+                    <ClassDefinition value="fl.controls.SliderDirection"/>
+               </classDefinitions>
+          </Swc>
+     </swcCache>
+</DOMDocument>

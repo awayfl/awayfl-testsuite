@@ -1,0 +1,138 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.5 build 29329" majorVersion="20" minorVersion="5" buildNumber="29329" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <fonts>
+          <DOMFontItem name="Font 1" itemID="5ee03c14-000003dd" font="_sans" size="0" id="1" sourceLastImported="1591753748" embedRanges="9999"/>
+          <DOMFontItem name="Arial Regular" itemID="5446b366-00000305" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialRegularEmbedded" font="ArialMT" size="0" id="2" sourceLastImported="1591754068" embedRanges="4|5|17"/>
+     </fonts>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[trace("In frame 1.")
+status_txt.text = this.loaderInfo.url;
+trace("this.loaderInfo.url = "+this.loaderInfo.url);
+stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[trace("In frame 10.");
+stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" left="180" width="262.65" height="46.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="449" ty="451.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>At frame 10. Timeline must be running.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="_sans"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMDynamicText name="status_txt" fontRenderingMode="device" top="-9.9" left="-349.95" width="791.95" height="172.95" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="373" ty="152.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT" fillColor="#333333"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer_3" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="18" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="631.95" height="22.35" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27.05" ty="14.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Issue4.fla this.loaderInfo.url test</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="136.8" height="17.9" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="23.05" ty="117.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>this.loaderInfo.url =</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="433255" publishTime="1591754072"/>
+          <PublishItem publishSize="433255" publishTime="1591753961"/>
+          <PublishItem publishSize="216467" publishTime="1591753762"/>
+          <PublishItem publishSize="702" publishTime="1591753521"/>
+          <PublishItem publishSize="702" publishTime="1591753460"/>
+          <PublishItem publishSize="723" publishTime="1591753419"/>
+          <PublishItem publishSize="728" publishTime="1591753385"/>
+          <PublishItem publishSize="725" publishTime="1591753369"/>
+          <PublishItem publishSize="723" publishTime="1591753345"/>
+          <PublishItem publishSize="18095" publishTime="1591752968"/>
+          <PublishItem publishSize="18095" publishTime="1591752940"/>
+          <PublishItem publishSize="16174" publishTime="1591752369"/>
+          <PublishItem publishSize="16162" publishTime="1591752288"/>
+          <PublishItem publishSize="1095" publishTime="1591752160"/>
+          <PublishItem publishSize="16875" publishTime="1591751848"/>
+          <PublishItem publishSize="16875" publishTime="1591751829"/>
+          <PublishItem publishSize="23114" publishTime="1591751772"/>
+          <PublishItem publishSize="23114" publishTime="1591751746"/>
+          <PublishItem publishSize="23114" publishTime="1591751715"/>
+          <PublishItem publishSize="23100" publishTime="1591751664"/>
+     </publishHistory>
+</DOMDocument>

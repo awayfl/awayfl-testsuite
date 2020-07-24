@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Radiating waves reverse" itemID="4ce64e46-0000014a" lastModified="1290161830">
+  <timeline>
+    <DOMTimeline name="Radiating waves reverse" currentFrame="59">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave reverse (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave reverse (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave reverse (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" locked="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave reverse (single)" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Radiating wave reverse (single)" selected="true" centerPoint3DX="0.25" centerPoint3DY="1.25">
+                  <matrix>
+                    <Matrix tx="0.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="-0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

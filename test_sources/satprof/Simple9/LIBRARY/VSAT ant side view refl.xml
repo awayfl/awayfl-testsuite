@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="VSAT ant side view refl" itemID="43c81381-0000021f" linkageExportForAS="true" linkageIdentifier="VSAT ant side view refl" linkageClassName="VSAT ant side view refl" sourceFlashFilepath="../GVF510Intro2a.fla" sourceLibraryItemHRef="VSAT ant side view refl" sourceLastModified="1137186742" lastModified="1137186742" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="VSAT ant side view refl">
+      <layers>
+        <DOMLayer name="Refl" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#EEEEEE"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" solidStyle="hairline">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!-1017.5 -1436[#FFFC4D.47 #FFFAA8.DF -874.5 -1288!-874.5 -1288[#FFFDCC.92 #FFFC4C.EA -330 -538!-330 -538[#FFFEC6.B4 #FFFE03.3E -297 -479.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!68.5 638.5|-1126.5 -1544.5!-1126.5 -1544.5|-1116.5 -1534!-1116.5 -1534|-1123.5 -1547!-1123.5 -1547|-1100.5 -1587.5!-1100.5 -1587.5|-1017.5 -1436"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-297 -479.5|-67.5 -497.5!-67.5 -497.5|-28 11.5!-28 11.5|179.5 801!179.5 801|92.5 807.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!92.5 807.5|91 798"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!91 798|-2253.5 978.5!-2253.5 978.5|-2262 876!-2262 876|-2293.5 879.5!-2293.5 879.5|-2457.5 954!-2457.5 954|-2531 808.5!-2531 808.5|-2368 731.5!-2368 731.5|-2184 556!-2184 556|-2035 851.5!-2035 851.5|-2110 860.5"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!-2262 876|-2110 860.5"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!76 691|68.5 638.5"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!81 651|82.5 654!82.5 654|128.5 657!128.5 657|67 544!68.5 638.5|82.5 663.5!82.5 663.5|81 651"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!91 798|91.5 798"/>
+                    <Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="!91.5 798|140 794!140 794|131 687!131 687|76 691"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!92.5 807.5|91.5 798"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!67 544[#30.84 #1B0.2A 16.5 308.5!16.5 308.5[#FFFFA7.8D #FFFF9E.03 -297 -479.5"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-2110 860.5|76 691"/>
+                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!67 544|-1017.5 -1436"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!81 651|-1116.5 -1534"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

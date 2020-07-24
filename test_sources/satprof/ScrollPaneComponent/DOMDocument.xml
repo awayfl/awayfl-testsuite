@@ -1,0 +1,478 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 20.5 build 29329" majorVersion="20" minorVersion="5" buildNumber="29329" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <folders>
+          <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
+          <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
+          <DOMFolderItem name="Component Assets/CellRendererSkins" itemID="44d7baa5-000000e7"/>
+          <DOMFolderItem name="Component Assets/ComboBoxSkins" itemID="44f73b7c-0000018e"/>
+          <DOMFolderItem name="Component Assets/ListSkins" itemID="44e5f6f9-00000039"/>
+          <DOMFolderItem name="Component Assets/RadioButtonSkins" itemID="44c91485-00000122"/>
+          <DOMFolderItem name="Component Assets/ScrollBarSkins" itemID="44ea2edf-000000a6"/>
+          <DOMFolderItem name="Component Assets/ScrollPaneSkins" itemID="4509c3d4-0000020d"/>
+          <DOMFolderItem name="Component Assets/Shared" itemID="44f892ff-0000001e"/>
+          <DOMFolderItem name="Component Assets/TextAreaSkins" itemID="44ec8463-00000078"/>
+          <DOMFolderItem name="Component Assets/TextInputSkins" itemID="44c91d04-00000282"/>
+     </folders>
+     <media>
+          <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="50f45de3-000003c1" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceExternalFilepath="../scrollpane/LIBRARY/Component Assets/_private/ComponentShim" sourceLastImported="1358192099" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="9904vgmrqe.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" persistLivePreview11="true" livePreview11ScmHRef="9905agmrqe.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="lBSX9Y5jU7802yucctAf9/">
+               <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1358192086103">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<componentData>
+<classDefs>
+	<classDef id="fl.core.AccessibilityShim"/>
+	<classDef id="fl.controls.CheckBox"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="fl.controls.List"/>
+	<classDef id="fl.controls.ComboBox"/>
+	<classDef id="fl.controls.ProgressBarDirection"/>
+	<classDef id="fl.data.SimpleCollectionItem"/>
+	<classDef id="fl.controls.TextArea"/>
+	<classDef id="fl.display.ProLoaderInfo"/>
+	<classDef id="fl.controls.Slider"/>
+	<classDef id="fl.events.DataChangeEvent"/>
+	<classDef id="fl.accessibility.ComboBoxAccImpl"/>
+	<classDef id="fl.events.DataChangeType"/>
+	<classDef id="fl.accessibility.TileListAccImpl"/>
+	<classDef id="fl.accessibility.ButtonAccImpl"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.DataGrid"/>
+	<classDef id="fl.display.ProLoader"/>
+	<classDef id="fl.containers.BaseScrollPane"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.controls.Label"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="fl.controls.UIScrollBar"/>
+	<classDef id="fl.controls.listClasses.ICellRenderer"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridCellEditor"/>
+	<classDef id="fl.controls.ColorPicker"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+	<classDef id="fl.events.DataGridEventReason"/>
+	<classDef id="fl.events.SliderEvent"/>
+	<classDef id="fl.events.SliderEventClickTarget"/>
+	<classDef id="fl.controls.progressBarClasses.IndeterminateBar"/>
+	<classDef id="fl.controls.listClasses.ListData"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.controls.RadioButtonGroup"/>
+	<classDef id="fl.controls.NumericStepper"/>
+	<classDef id="fl.accessibility.LabelButtonAccImpl"/>
+	<classDef id="fl.containers.UILoader"/>
+	<classDef id="fl.events.ColorPickerEvent"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.accessibility.CheckBoxAccImpl"/>
+	<classDef id="fl.managers.StyleManager"/>
+	<classDef id="fl.controls.TileList"/>
+	<classDef id="fl.controls.RadioButton"/>
+	<classDef id="fl.containers.ScrollPane"/>
+	<classDef id="fl.controls.listClasses.TileListData"/>
+	<classDef id="fl.events.InteractionInputType"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="fl.core.ComponentShim"/>
+	<classDef id="fl.accessibility.UIComponentAccImpl"/>
+	<classDef id="fl.controls.SelectableList"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="fl.accessibility.RadioButtonAccImpl"/>
+	<classDef id="fl.controls.listClasses.CellRenderer"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.controls.ScrollPolicy"/>
+	<classDef id="fl.controls.ScrollBar"/>
+	<classDef id="fl.controls.ProgressBar"/>
+	<classDef id="fl.controls.listClasses.ImageCell"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.controls.ProgressBarMode"/>
+	<classDef id="fl.accessibility.SelectableListAccImpl"/>
+	<classDef id="fl.controls.TextInput"/>
+	<classDef id="fl.events.ListEvent"/>
+	<classDef id="fl.accessibility.AccImpl"/>
+	<classDef id="fl.accessibility.DataGridAccImpl"/>
+	<classDef id="fl.events.ScrollEvent"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridColumn"/>
+	<classDef id="fl.events.DataGridEvent"/>
+	<classDef id="fl.data.TileListCollectionItem"/>
+	<classDef id="fl.data.DataProvider"/>
+	<classDef id="fl.accessibility.ListAccImpl"/>
+	<classDef id="fl.controls.dataGridClasses.HeaderRenderer"/>
+	<classDef id="fl.controls.ScrollBarDirection"/>
+	<classDef id="fl.controls.SliderDirection"/>
+</classDefs>
+<class id="fl.core.ComponentShim" >
+	<method id="ComponentShim" isConstructor="true" isProperty="false">
+	</method>
+</class>
+</componentData>
+</component>
+]]></classProperties>
+               <SwcItem name="fl.core.ComponentShim" version="1358192086" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+     </media>
+     <symbols>
+          <Include href="ComboBox.xml" itemID="44f70a5f-0000008e" lastModified="1358192121"/>
+          <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
+          <Include href="Component Assets/CellRenderer.xml" itemID="44d7bb1d-000000ed" lastModified="1358192121"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_disabledSkin.xml" itemID="453f806e-000004dd" lastModified="1168293053"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_downSkin.xml" itemID="453f806e-000004e0" lastModified="1168286936"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_overSkin.xml" itemID="453f806e-000004e3" lastModified="1168297377"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_selectedDisabledSkin.xml" itemID="453f806e-000004e6" lastModified="1168293033"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_selectedDownSkin.xml" itemID="453f806e-000004e9" lastModified="1168287002"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_selectedOverSkin.xml" itemID="453f806e-000004ec" lastModified="1168292911"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_selectedUpSkin.xml" itemID="453f806e-000004ef" lastModified="1168287028"/>
+          <Include href="Component Assets/CellRendererSkins/CellRenderer_upSkin.xml" itemID="453f806e-000004da" lastModified="1169163238"/>
+          <Include href="Component Assets/ComboBoxSkins/ComboBox_disabledSkin.xml" itemID="44f747a4-00000196" lastModified="1168287287"/>
+          <Include href="Component Assets/ComboBoxSkins/ComboBox_downSkin.xml" itemID="44f74767-00000192" lastModified="1168287299"/>
+          <Include href="Component Assets/ComboBoxSkins/ComboBox_overSkin.xml" itemID="44f7476d-00000193" lastModified="1168287312"/>
+          <Include href="Component Assets/ComboBoxSkins/ComboBox_upSkin.xml" itemID="44f7477c-00000194" lastModified="1168288699"/>
+          <Include href="Component Assets/ListSkins/List_skin.xml" itemID="44d01cb5-00000051" lastModified="1169163244"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_disabledIcon.xml" itemID="4399b23a-000082f3" lastModified="1168289721"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_downIcon.xml" itemID="4399b244-00008370" lastModified="1168289734"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_overIcon.xml" itemID="4399b24e-000083ed" lastModified="1168289743"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_selectedDisabledIcon.xml" itemID="44b1a5d8-00000135" lastModified="1168289768"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_selectedDownIcon.xml" itemID="44b1a5ee-00000136" lastModified="1168289828"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_selectedIcon.xml" loadImmediate="false" itemID="456df3ec-0000019d" lastModified="1168289833"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_selectedOverIcon.xml" itemID="44b1a612-00000137" lastModified="1168289876"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_selectedUpIcon.xml" itemID="44b1a624-00000138" lastModified="1168289887"/>
+          <Include href="Component Assets/RadioButtonSkins/RadioButton_upIcon.xml" itemID="44b1a5bf-00000134" lastModified="1168289939"/>
+          <Include href="Component Assets/ScrollBar.xml" itemID="45365ac7-000002ef" lastModified="1358192121"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_disabledSkin.xml" itemID="4399b48a-00008d0a" lastModified="1168289950"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_downSkin.xml" itemID="4399b4a4-00008e29" lastModified="1168289961"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_icon.xml" itemIcon="1" loadImmediate="false" itemID="456df1e4-00000190" lastModified="1168289966"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_overSkin.xml" itemID="4399c50b-00008f6e" lastModified="1168290195"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowDown_upSkin.xml" itemID="4399c519-0000900f" lastModified="1168290217"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_disabledSkin.xml" itemID="4399b493-00008d74" lastModified="1168290230"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_downSkin.xml" itemID="4399c54a-00009130" lastModified="1168290244"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_icon.xml" itemIcon="1" loadImmediate="false" itemID="456df209-00000192" lastModified="1168290248"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_overSkin.xml" itemID="4399c55c-000091cd" lastModified="1168290260"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollArrowUp_upSkin.xml" itemID="4399c568-00009256" lastModified="1168290275"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollBar_thumbIcon.xml" itemID="442a68fb-00006a9d" lastModified="1164927281"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollThumb_downSkin.xml" itemID="4399c5a6-000092e7" lastModified="1168290280"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollThumb_overSkin.xml" itemID="4399c5b6-00009358" lastModified="1168290288"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollThumb_upSkin.xml" itemID="4399c5d1-000093e9" lastModified="1168290292"/>
+          <Include href="Component Assets/ScrollBarSkins/ScrollTrack_skin.xml" itemID="44fdb956-000002bc" lastModified="1168290301"/>
+          <Include href="Component Assets/ScrollPaneSkins/ScrollPane_disabledSkin.xml" itemID="4509c368-00000206" lastModified="1168290335"/>
+          <Include href="Component Assets/ScrollPaneSkins/ScrollPane_upSkin.xml" itemID="450aff20-00000493" lastModified="1168290344"/>
+          <Include href="Component Assets/Shared/arrowIcon.xml" itemIcon="1" loadImmediate="false" itemID="456df449-0000019f" lastModified="1168290350"/>
+          <Include href="Component Assets/Shared/focusRectSkin.xml" itemID="44d8b6f8-00000055" lastModified="1168290361"/>
+          <Include href="Component Assets/Shared/panelBackground_Base.xml" loadImmediate="false" itemID="450ae432-0000043d" lastModified="1168290370"/>
+          <Include href="Component Assets/Shared/panelBackground_Shadow.xml" loadImmediate="false" itemID="450ae432-0000043a" lastModified="1168290377"/>
+          <Include href="Component Assets/TextAreaSkins/TextArea_disabledSkin.xml" itemID="44d8caf3-000000d9" lastModified="1168290416"/>
+          <Include href="Component Assets/TextAreaSkins/TextArea_upSkin.xml" itemID="44d8cafd-000000da" lastModified="1168290422"/>
+          <Include href="Component Assets/TextInputSkins/TextInput_disabledSkin.xml" itemID="44b148ab-000000ee" lastModified="1168290428"/>
+          <Include href="Component Assets/TextInputSkins/TextInput_upSkin.xml" itemID="44b148bb-000000ef" lastModified="1168290434"/>
+          <Include href="Example box.xml" loadImmediate="false" itemID="5effcbfa-00000311" lastModified="1593822202"/>
+          <Include href="List.xml" itemID="44e5f6db-00000035" lastModified="1358192121"/>
+          <Include href="RadioButton.xml" itemID="44b1a57a-00000122" lastModified="1358192122"/>
+          <Include href="ScrollPane.xml" itemID="44d8fbfb-000005da" lastModified="1358192122"/>
+          <Include href="TextArea.xml" itemID="44d8c4d1-000000c9" lastModified="1358192122"/>
+          <Include href="TextInput.xml" itemID="44b159e1-000000fd" lastModified="1358192122"/>
+          <Include href="UIScrollBar.xml" itemID="44aaa686-00000064" lastModified="1358192122"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4F80FF">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import fl.controls.*; // Required for RadioButton and RadioButtonGroup
+import fl.data.DataProvider;
+import fl.controls.ComboBox;
+import fl.events.SliderEvent;
+import fl.containers.ScrollPane;
+import fl.events.ScrollEvent;
+
+/*
+var tfb:TextFormat = new TextFormat();
+tfb.color = 0xFF0000;
+tfb.font = "Arial";
+tfb.size = 14;
+myButton.setStyle("textFormat", tfb);
+myButton.label = "IGNITION";
+
+
+myButton.addEventListener(MouseEvent.CLICK, clickHandler);
+myCheckBox.addEventListener(MouseEvent.CLICK, clickHandler);
+*/
+/*
+button1_rb.addEventListener(MouseEvent.CLICK, clickHandler);
+button2_rb.addEventListener(MouseEvent.CLICK, clickHandler);
+
+button1_rb.selected = true;
+*/
+trace("In frame 1.")
+
+/*
+var dp:DataProvider = new DataProvider();
+dp.addItem({label:"12 dB", data:12}); 
+dp.addItem({label:"16 dB", data:16}); 
+dp.addItem({label:"20 dB", data:20}); 
+dp.addItem({label:"24 dB", data:24}); 
+dp.addItem({label:"30 dB", data:30}); 
+
+myComboBox.dataProvider = dp;
+myComboBox.selectedIndex = 0;
+myComboBox.visible = true;
+myComboBox.addEventListener(Event.CHANGE, changeHandler);
+
+*/
+/*
+var tf:TextFormat = new TextFormat("Arial", 16);
+myTextArea.setStyle("textFormat", tf);
+var ipsum:String = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt "+
+"ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "+
+"aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu "+
+"fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum";
+myTextArea.text = ipsum;
+*/
+
+myScrollPane.source = exampleBox;
+myScrollPane.addEventListener(ScrollEvent.SCROLL, scrollHandler);
+
+/*
+mySlider.liveDragging = true; // Makes it fire whenever the slider is moved.  Otherwise fires when mouse is released.
+mySlider.addEventListener(Event.CHANGE, sliderHandler);
+*/
+
+stop();
+/*
+function clickHandler(event:MouseEvent):void {
+  	trace("In clickHandler, event.target.name = "+event.target.name);
+}
+*/
+/*
+function changeHandler(event:Event):void {
+  	trace("In changeHandler, event.target.name = "+event.target.name);
+	trace("  myComboBox.selectedIndex = "+myComboBox.selectedIndex);
+}
+*/
+/*
+function sliderHandler(event:SliderEvent):void {
+  	trace("In sliderHandler, event.target.name = "+event.target.name+", value = "+mySlider.value);
+}
+*/
+
+function scrollHandler(event:ScrollEvent):void {
+  	trace("In scrollHandler, event.target.name = "+event.target.name);
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="79.4" height="24.3" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27.05" ty="14.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Issue11</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.3" size="20" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="382" height="47.4" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="421" ty="21.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Should scroll the dotted image and trace when scrolled.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="8.5" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMComponentInstance libraryItemName="ScrollPane" name="myScrollPane" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="298.1" ty="217.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="enabled">
+      <Inspectable name="enabled" unlocalizedName="enabled" variable="enabled" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+   <property id="horizontalLineScrollSize">
+      <Inspectable name="horizontalLineScrollSize" unlocalizedName="horizontalLineScrollSize" variable="horizontalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="horizontalPageScrollSize">
+      <Inspectable name="horizontalPageScrollSize" unlocalizedName="horizontalPageScrollSize" variable="horizontalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="horizontalScrollPolicy">
+      <Inspectable name="horizontalScrollPolicy" unlocalizedName="horizontalScrollPolicy" variable="horizontalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="scrollDrag">
+      <Inspectable name="scrollDrag" unlocalizedName="scrollDrag" variable="scrollDrag" category="" verbose="0" defaultValue="false" type="Boolean"/>
+   </property>
+   <property id="source">
+      <Inspectable name="source" unlocalizedName="source" variable="source" category="" verbose="0" defaultValue="" type="String"/>
+   </property>
+   <property id="verticalLineScrollSize">
+      <Inspectable name="verticalLineScrollSize" unlocalizedName="verticalLineScrollSize" variable="verticalLineScrollSize" category="" verbose="0" defaultValue="4" type="Number"/>
+   </property>
+   <property id="verticalPageScrollSize">
+      <Inspectable name="verticalPageScrollSize" unlocalizedName="verticalPageScrollSize" variable="verticalPageScrollSize" category="" verbose="0" defaultValue="0" type="Number"/>
+   </property>
+   <property id="verticalScrollPolicy">
+      <Inspectable name="verticalScrollPolicy" unlocalizedName="verticalScrollPolicy" variable="verticalScrollPolicy" category="" verbose="0" defaultValue="auto" enumeration="on,off,auto" type="List"/>
+   </property>
+   <property id="visible">
+      <Inspectable name="visible" unlocalizedName="visible" variable="visible" category="" verbose="1" defaultValue="true" type="Boolean"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                        <DOMStaticText width="164" height="19.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="300.1" ty="188.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>ScrollPane</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="8.5" lineHeight="19.45" size="16" bitmapSize="320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Example box" name="exampleBox">
+                                             <matrix>
+                                                  <Matrix tx="432.25" ty="212.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="84.85" y="70.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Guide" color="#9933CC" autoNamed="false" layerType="guide">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Components" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="51812" publishTime="1593985672"/>
+          <PublishItem publishSize="43502" publishTime="1593984472"/>
+          <PublishItem publishSize="40072" publishTime="1593983491"/>
+          <PublishItem publishSize="3155" publishTime="1593881271"/>
+          <PublishItem publishSize="1546" publishTime="1593881219"/>
+          <PublishItem publishSize="3155" publishTime="1593881075"/>
+          <PublishItem publishSize="244" publishTime="1593880941"/>
+          <PublishItem publishSize="244" publishTime="1593880623"/>
+          <PublishItem publishSize="244" publishTime="1593880587"/>
+          <PublishItem publishSize="61" publishTime="1593880442"/>
+          <PublishItem publishSize="57729" publishTime="1593880341"/>
+          <PublishItem publishSize="335270" publishTime="1593825048"/>
+          <PublishItem publishSize="287791" publishTime="1593825030"/>
+          <PublishItem publishSize="335932" publishTime="1593824818"/>
+          <PublishItem publishSize="335921" publishTime="1593824760"/>
+          <PublishItem publishSize="336700" publishTime="1593824498"/>
+          <PublishItem publishSize="336770" publishTime="1593824472"/>
+          <PublishItem publishSize="336914" publishTime="1593823211"/>
+          <PublishItem publishSize="336843" publishTime="1593823160"/>
+          <PublishItem publishSize="288579" publishTime="1593822974"/>
+     </publishHistory>
+     <swcCache>
+          <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="1hl8y962gz.swc">
+               <classDefinitions>
+                    <ClassDefinition value="fl.core.AccessibilityShim"/>
+                    <ClassDefinition value="fl.controls.CheckBox"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="fl.controls.List"/>
+                    <ClassDefinition value="fl.controls.ComboBox"/>
+                    <ClassDefinition value="fl.controls.ProgressBarDirection"/>
+                    <ClassDefinition value="fl.data.SimpleCollectionItem"/>
+                    <ClassDefinition value="fl.controls.TextArea"/>
+                    <ClassDefinition value="fl.display.ProLoaderInfo"/>
+                    <ClassDefinition value="fl.controls.Slider"/>
+                    <ClassDefinition value="fl.events.DataChangeEvent"/>
+                    <ClassDefinition value="fl.accessibility.ComboBoxAccImpl"/>
+                    <ClassDefinition value="fl.events.DataChangeType"/>
+                    <ClassDefinition value="fl.accessibility.TileListAccImpl"/>
+                    <ClassDefinition value="fl.accessibility.ButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.DataGrid"/>
+                    <ClassDefinition value="fl.display.ProLoader"/>
+                    <ClassDefinition value="fl.containers.BaseScrollPane"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.controls.Label"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="fl.controls.UIScrollBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ICellRenderer"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridCellEditor"/>
+                    <ClassDefinition value="fl.controls.ColorPicker"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+                    <ClassDefinition value="fl.events.DataGridEventReason"/>
+                    <ClassDefinition value="fl.events.SliderEvent"/>
+                    <ClassDefinition value="fl.events.SliderEventClickTarget"/>
+                    <ClassDefinition value="fl.controls.progressBarClasses.IndeterminateBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ListData"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.controls.RadioButtonGroup"/>
+                    <ClassDefinition value="fl.controls.NumericStepper"/>
+                    <ClassDefinition value="fl.accessibility.LabelButtonAccImpl"/>
+                    <ClassDefinition value="fl.containers.UILoader"/>
+                    <ClassDefinition value="fl.events.ColorPickerEvent"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.accessibility.CheckBoxAccImpl"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+                    <ClassDefinition value="fl.controls.TileList"/>
+                    <ClassDefinition value="fl.controls.RadioButton"/>
+                    <ClassDefinition value="fl.containers.ScrollPane"/>
+                    <ClassDefinition value="fl.controls.listClasses.TileListData"/>
+                    <ClassDefinition value="fl.events.InteractionInputType"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="fl.core.ComponentShim"/>
+                    <ClassDefinition value="fl.accessibility.UIComponentAccImpl"/>
+                    <ClassDefinition value="fl.controls.SelectableList"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="fl.accessibility.RadioButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.listClasses.CellRenderer"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="fl.controls.ScrollPolicy"/>
+                    <ClassDefinition value="fl.controls.ScrollBar"/>
+                    <ClassDefinition value="fl.controls.ProgressBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ImageCell"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.controls.ProgressBarMode"/>
+                    <ClassDefinition value="fl.accessibility.SelectableListAccImpl"/>
+                    <ClassDefinition value="fl.controls.TextInput"/>
+                    <ClassDefinition value="fl.events.ListEvent"/>
+                    <ClassDefinition value="fl.accessibility.AccImpl"/>
+                    <ClassDefinition value="fl.accessibility.DataGridAccImpl"/>
+                    <ClassDefinition value="fl.events.ScrollEvent"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridColumn"/>
+                    <ClassDefinition value="fl.events.DataGridEvent"/>
+                    <ClassDefinition value="fl.data.TileListCollectionItem"/>
+                    <ClassDefinition value="fl.data.DataProvider"/>
+                    <ClassDefinition value="fl.accessibility.ListAccImpl"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.HeaderRenderer"/>
+                    <ClassDefinition value="fl.controls.ScrollBarDirection"/>
+                    <ClassDefinition value="fl.controls.SliderDirection"/>
+               </classDefinitions>
+          </Swc>
+     </swcCache>
+</DOMDocument>

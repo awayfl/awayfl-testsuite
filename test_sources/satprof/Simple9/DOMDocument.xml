@@ -1,0 +1,476 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#C8C8C8" width="900" height="540" frameRate="12" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" guidesVisible="false" snapAlign="false" objectsSnapTo="false" viewAngle3D="52.5021530953581" vanishingPoint3DX="475" vanishingPoint3DY="270" templateFilename="C:\Users\Ralph\AppData\Local\Adobe\Animate 2020\en_US\Configuration\Templates\SatProf\LearningPage17.fla" templateDescription="Step by step learning page." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="251FD88FADA0D2499BA5B5D2A62CF22A">
+     <folders>
+          <DOMFolderItem name="Template assets" itemID="595a7975-000003d5" isExpanded="true"/>
+          <DOMFolderItem name="Template assets/Buttons" itemID="57991514-0000064a" isExpanded="true"/>
+          <DOMFolderItem name="Template assets/Embedded fonts" itemID="595a78ca-000003d0"/>
+          <DOMFolderItem name="Template assets/images" itemID="4ce406d2-0000031a"/>
+          <DOMFolderItem name="Template assets/movieclips" itemID="57991514-00000648"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow" itemID="58f0de65-0000063e" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowEmbedded" font="ArialNarrow" size="0" id="10" sourceLastImported="1492180581" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold Italic" itemID="5446b3b2-00000312" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldItalicEmbedded" font="Arial-BoldItalicMT" size="0" id="5" sourceLastImported="1499100876" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Bold" itemID="5798d291-000002f6" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialBoldEmbedded" font="Arial-BoldMT" size="0" id="4" sourceLastImported="1469633169" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Italic" itemID="5446b380-0000030a" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialItalicEmbedded" font="Arial-ItalicMT" size="0" id="3" sourceLastImported="1469633232" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Regular" itemID="5446b366-00000305" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialRegularEmbedded" font="ArialMT" size="0" id="2" sourceLastImported="1492187117" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Regular" itemID="595a7584-000003b9" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaRegularEmbedded" font="Verdana" size="0" id="19" sourceLastImported="1499100548" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Italic" itemID="595a75ae-000003bb" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaItalicEmbedded" font="Verdana-Italic" size="0" id="20" sourceLastImported="1499100590" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold" itemID="595a75e7-000003bd" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldEmbedded" font="Verdana-Bold" size="0" id="21" sourceLastImported="1499100647" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Verdana Bold Italic" itemID="595a7611-000003bf" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="VerdanaBoldItalicEmbedded" font="Verdana-BoldItalic" size="0" id="22" sourceLastImported="1499100689" embedRanges="4|5|17"/>
+          <DOMFontItem name="Template assets/Embedded fonts/Arial Narrow Bold" itemID="595a771a-000003c8" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="ArialNarrowBoldEmbedded" font="ArialNarrow-Bold" size="0" id="23" sourceLastImported="1499100954" embedRanges="4|5|17"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="Template assets/images/SatProf logo 150 pixels.gif" itemID="4ce402a4-000002e4" sourceExternalFilepath="./LIBRARY/Template assets/images/SatProf logo 150 pixels.gif" sourceLastImported="1233161343" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Template assets/images/SatProf logo 150 pixels.gif" bitmapDataHRef="M 1 1469650196.dat" frameRight="2980" frameBottom="1240"/>
+          <DOMBitmapItem name="SatProfLogo2018_forLightBG_verysmall.png" itemID="5d6bd222-000003e8" sourceExternalFilepath="./LIBRARY/SatProfLogo2018_forLightBG_verysmall.png" sourceLastImported="1548181566" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="SatProfLogo2018_forLightBG_verysmall.png" bitmapDataHRef="M 3 1567347234.dat" frameRight="5440" frameBottom="2640"/>
+     </media>
+     <symbols>
+          <Include href="Box button.xml" itemIcon="0" loadImmediate="false" itemID="5e9f9fd7-00000531" lastModified="1587519494"/>
+          <Include href="Circ.xml" loadImmediate="false" itemID="5e457bf3-00000171" lastModified="1583538333"/>
+          <Include href="F connector.xml" loadImmediate="false" itemID="48ab39aa-000003c3" lastModified="1219180971"/>
+          <Include href="Pentagon.xml" loadImmediate="false" itemID="5e62dc43-00000405" lastModified="1583537311"/>
+          <Include href="Radiating wave (single).xml" loadImmediate="false" itemID="469501b1-00000020" lastModified="1290161456"/>
+          <Include href="Radiating wave reverse (single).xml" loadImmediate="false" itemID="4ce64d30-0000010c" lastModified="1589908001"/>
+          <Include href="Radiating waves.xml" loadImmediate="false" itemID="46950193-0000001e" lastModified="1589908014"/>
+          <Include href="Radiating waves reverse.xml" loadImmediate="false" itemID="4ce64e46-0000014a" lastModified="1290161830"/>
+          <Include href="Rect.xml" loadImmediate="false" itemID="5e457be8-0000016c" lastModified="1583538417"/>
+          <Include href="Satellite5.xml" itemID="46d3613d-000002b7" lastModified="1188258290"/>
+          <Include href="Template assets/Buttons/Gel Circ Arrow MC.xml" loadImmediate="false" itemID="4cd87978-000000d7" lastModified="1303393969"/>
+          <Include href="Template assets/Buttons/Gel Dot Red no legend.xml" itemIcon="0" loadImmediate="false" itemID="4a6f6d78-000002bf" lastModified="1248816582"/>
+          <Include href="Template assets/Buttons/Gel Left Arrow MC.xml" loadImmediate="false" itemID="4cd87816-000000d5" lastModified="1303393945"/>
+          <Include href="Template assets/Buttons/Gel Right Arrow MC.xml" loadImmediate="false" itemID="4cd8780b-000000d4" lastModified="1303394013"/>
+          <Include href="Template assets/Buttons/Lang button.xml" loadImmediate="false" itemID="4cd89414-00000166" lastModified="1302024255"/>
+          <Include href="Template assets/movieclips/Demo mode warning.xml" loadImmediate="false" itemID="51e06b3a-000003a1" lastModified="1373662010"/>
+          <Include href="Template assets/movieclips/Font samples for embedding.xml" loadImmediate="false" itemID="54468ad8-000002e9" lastModified="1589896525"/>
+          <Include href="Template assets/movieclips/Unauthorized cover.xml" loadImmediate="false" itemID="4b5a3532-0000005d" lastModified="1567347293"/>
+          <Include href="VSAT ant side view mount.xml" itemID="43c80c3e-0000021d" lastModified="1137186451"/>
+          <Include href="VSAT ant side view refl.xml" itemID="43c81381-0000021f" lastModified="1137186742"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[trace("In frame 1.")
+
+//var v:Vector3D = new Vector3D(1,2,3); // Causes JS crash
+//trace("v = "+v);
+//trace("t = "+getTimer());]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="9" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[trace("In frame 10.");
+stop();]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Title" color="#FF800A" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="126.65" height="24.3" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27.05" ty="14.95"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Simple9.fla</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24.3" size="20" bitmapSize="400" face="Verdana-Bold"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4F80FF" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Font samples for embedding" color="#4FFF4F" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 15" color="#FF4F4F" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="VSAT ant side view mount">
+                                             <matrix>
+                                                  <Matrix tx="348.6" ty="270"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="13.15" y="31.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="VSAT ant side view refl">
+                                             <matrix>
+                                                  <Matrix a="0.814208984375" b="0.577896118164063" c="-0.577896118164063" d="0.814208984375" tx="347.25" ty="279"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.25" y="-12.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-305" ty="-49"/>
+                                             </matrix>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="6">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!10879 6440[11687 6959 11912 7098!11912 7098[12621 7535 12939 7560!12939 7560[13091 7572 13400 7541!13400 7541[13577 7523 13959 7483!13959 7483[14669 7422 14919 7600!14919 7600[15071 7708 15132 7938!15132 7938[15190 8152 15157 8415!15157
+ 8415[15123 8676 15012 8899!15012 8899[14893 9136 14719 9259!14719 9259[14521 9400 14222 9547!14222 9547[13881 9714 13544 9822!13544 9822[12672 10099 12219 9859!12219 9859[11867 9673 11275 9523!11275 9523[10994 9452 10887 9417!10887 9417
+[10696 9353 10579 9270"/>
+                                                  <Edge cubics="!12939 7560(;13439,7600 14499,7300 14919,7600q12939 7560Q13091 7572q13400 7541Q13577 7523q13959 7483Q14669 7422q14919 7600);"/>
+                                                  <Edge cubics="!14919 7600(;15339,7900 15199,8919 14719,9259q14919 7600Q15071 7708q15132 7938Q15190 8152q15157 8415Q15123 8676q15012 8899Q14893 9136q14719 9259);"/>
+                                                  <Edge cubics="!14719 9259(;14239,9599 12899,10219 12219,9859q14719 9259Q14521 9400q14222 9547Q13881 9714q13544 9822Q12672 10099q12219 9859);"/>
+                                                  <Edge cubics="!12219 9859(;11539,9499 10929,9520 10579,9270q12219 9859Q11867 9673q11275 9523Q10994 9452q10887 9417Q10696 9353q10579 9270)10234,9023;"/>
+                                                  <Edge cubics="!11912 7098(;12385,7389 12727,7543 12939,7560q11912 7098Q12621 7535q12939 7560);"/>
+                                                  <Edge cubics="!10879 6440(10879,6440;11418,6786 11762,7005 11912,7098q10879 6440Q11687 6959q11912 7098);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-301.35" ty="-61.85"/>
+                                             </matrix>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!10659 8839|10559 8739"/>
+                                                  <Edge cubics="!10659 8839(10659,8839;10659,8839 10559,8739 10559,8739q10659 8839 10559 8739);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="Satellite5" centerPoint3DX="61.45" centerPoint3DY="85.45">
+                                             <matrix>
+                                                  <Matrix tx="60.5" ty="84.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="0.95" y="1.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.5816650390625" b="0.364593505859375" c="-0.530319213867188" d="0.846054077148438" tx="91.9" ty="-192.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="525.4" y="314.55"/>
+                                             </transformationPoint>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FF0000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!10899 6440|10119 6440!10119 6440|10119 6140!10119 6140|10899 6140!10899 6140|10899 6440"/>
+                                                  <Edge cubics="!10899 6140(;10899,6140 10899,6440 10899,6440q10899 6140 10899 6440);"/>
+                                                  <Edge cubics="!10119 6440(;10119,6440 10119,6140 10119,6140q10119 6440 10119 6140);"/>
+                                                  <Edge cubics="!10119 6140(;10119,6140 10899,6140 10899,6140q10119 6140 10899 6140);"/>
+                                                  <Edge cubics="!10899 6440(;10899,6440 10119,6440 10119,6440q10899 6440 10119 6440);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-313" ty="-38.95"/>
+                                             </matrix>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="6">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!10671 5601[9864 5607 10410 6155!10410 6155[10705 6451 11221 6771!11221 6771[11666 7045 12028 7216!12028 7216[12528 7452 12961 7542!12961 7542[13118 7574 13418 7549!13418 7549[13594 7534 13978 7487!13978 7487[14320 7451 14523 7463!14523
+ 7463[14798 7480 14941 7582!14941 7582[15092 7690 15123 7902!15123 7902[15151 8097 15075 8335!15075 8335[15001 8567 14853 8767!14853 8767[14698 8975 14511 9081!14511 9081[13961 9395 13557 9511!13557 9511[12907 9697 12461 9461!12461 9461
+[11892 9160 11586 8961!11586 8961[11207 8715 11011 8491"/>
+                                                  <Edge cubics="!12961 7542(;13452,7643 14521,7282 14941,7582q12961 7542Q13118 7574q13418 7549Q13594 7534q13978 7487Q14320 7451q14523 7463Q14798 7480q14941 7582);"/>
+                                                  <Edge cubics="!14941 7582(;15361,7882 15022,8791 14511,9081q14941 7582Q15092 7690q15123 7902Q15151 8097q15075 8335Q15001 8567q14853 8767Q14698 8975q14511 9081);"/>
+                                                  <Edge cubics="!14511 9081(;14021,9361 13141,9821 12461,9461q14511 9081Q13961 9395q13557 9511Q12907 9697q12461 9461);"/>
+                                                  <Edge cubics="!12461 9461(;11781,9101 11291,8811 11011,8491q12461 9461Q11892 9160q11586 8961Q11207 8715q11011 8491)10731,8171;"/>
+                                                  <Edge cubics="!11221 6771(;11694,7062 12319,7409 12961,7542q11221 6771Q11666 7045q12028 7216Q12528 7452q12961 7542);"/>
+                                                  <Edge cubics="!10671 5601(;9391,5611 11071,6678 11221,6771q10671 5601Q9864 5607q10410 6155Q10705 6451q11221 6771);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.932342529296875" b="-0.3585205078125" c="0.3585205078125" d="0.932342529296875" tx="-439.95" ty="191"/>
+                                             </matrix>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="
+!10659 8839|10559 8739"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="F connector">
+                                             <matrix>
+                                                  <Matrix a="0.437515258789063" b="0.175033569335938" c="-0.175033569335938" d="0.437515258789063" tx="214.45" ty="406"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="18.9" y="10.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="F connector" centerPoint3DX="235.35" centerPoint3DY="383.75">
+                                             <matrix>
+                                                  <Matrix a="0.33660888671875" b="0.328994750976563" c="-0.328994750976563" d="0.33660888671875" tx="232.65" ty="373.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="18.8" y="10.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.465347290039063" b="0.081878662109375" c="-0.105392456054688" d="0.59893798828125" tx="5.35" ty="10.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="525.35" y="314.3"/>
+                                             </transformationPoint>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FF0000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="
+!10899 6440|10119 6440!10119 6440|10119 6140!10119 6140|10899 6140!10899 6140|10899 6440"/>
+                                                  <Edge cubics="!10899 6140(;10899,6140 10899,6440 10899,6440q10899 6140 10899 6440);"/>
+                                                  <Edge cubics="!10119 6440(;10119,6440 10119,6140 10119,6140q10119 6440 10119 6140);"/>
+                                                  <Edge cubics="!10119 6140(;10119,6140 10899,6140 10899,6140q10119 6140 10899 6140);"/>
+                                                  <Edge cubics="!10899 6440(;10899,6440 10119,6440 10119,6440q10899 6440 10119 6440);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Texts" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 18" color="#FF800A" locked="true" layerType="mask" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.841445922851563" b="-0.537582397460938" c="0.537582397460938" d="0.841445922851563" tx="-235.85" ty="331.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="333.35" y="163.35"/>
+                                             </transformationPoint>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF00" alpha="0.63921568627451"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!9054 3530/10848 4367!10848 4367/10089 5333!10089 5333/8842 3751!8842 3751/9054 3530"/>
+                                                  <Edge cubics="!9054 3530(;9054,3530 10848,4367 10848,4367q9054 3530 10848 4367);"/>
+                                                  <Edge cubics="!10848 4367(;10848,4367 10089,5333 10089,5333q10848 4367 10089 5333);"/>
+                                                  <Edge cubics="!8842 3751(;8842,3751 9054,3530 9054,3530q8842 3751 9054 3530);"/>
+                                                  <Edge cubics="!10089 5333(;10089,5333 8842,3751 8842,3751q10089 5333 8842 3751);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 19" color="#FF4FFF" parentLayerIndex="6" locked="true" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Radiating waves">
+                                             <matrix>
+                                                  <Matrix tx="231.75" ty="239.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.15" y="5.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Mask" color="#4FFFFF" locked="true" autoNamed="false" layerType="mask" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.841445922851563" b="-0.537582397460938" c="0.537582397460938" d="0.841445922851563" tx="-352.35" ty="220.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="333.3" y="163.45"/>
+                                             </transformationPoint>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF00" alpha="0.63921568627451"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!9067 1445/11626 7596!11626 7596/10847 8406!10847 8406/7514 2425!7514 2425/9067 1445"/>
+                                                  <Edge cubics="!9067 1445(;9067,1445 11626,7596 11626,7596q9067 1445 11626 7596);"/>
+                                                  <Edge cubics="!11626 7596(;11626,7596 10847,8406 10847,8406q11626 7596 10847 8406);"/>
+                                                  <Edge cubics="!7514 2425(;7514,2425 9067,1445 9067,1445q7514 2425 9067 1445);"/>
+                                                  <Edge cubics="!10847 8406(;10847,8406 7514,2425 7514,2425q10847 8406 7514 2425);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 21" color="#808080" parentLayerIndex="8" locked="true" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Radiating waves">
+                                             <matrix>
+                                                  <Matrix tx="452.2" ty="303.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.15" y="5.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Mask" color="#4F80FF" locked="true" autoNamed="false" layerType="mask" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.841445922851563" b="-0.537582397460938" c="0.537582397460938" d="0.841445922851563" tx="-456.8" ty="375.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="333.3" y="163.4"/>
+                                             </transformationPoint>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFF00" alpha="0.63921568627451"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="
+!10756 7732/10177 8764!10177 8764/9586 7792!9586 7792/10756 7732"/>
+                                                  <Edge cubics="!14715 11985(;14715,11985 9903,9695 9903,9695q14715 11985 9903 9695);"/>
+                                                  <Edge cubics="!6623 3263(;6623,3263 14715,11985 14715,11985q6623 3263 14715 11985);"/>
+                                                  <Edge cubics="!9903 9695(;9903,9695 6623,3263 6623,3263q9903 9695 6623 3263);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 23" color="#FF4F4F" parentLayerIndex="10" locked="true" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Radiating waves reverse" centerPoint3DX="199.95" centerPoint3DY="407.1">
+                                             <matrix>
+                                                  <Matrix tx="199.7" ty="405.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.15" y="5.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="242545" publishTime="1591371494"/>
+          <PublishItem publishSize="283637" publishTime="1589914865"/>
+          <PublishItem publishSize="283654" publishTime="1589912410"/>
+          <PublishItem publishSize="283603" publishTime="1589912341"/>
+          <PublishItem publishSize="283611" publishTime="1589908188"/>
+          <PublishItem publishSize="282312" publishTime="1589908117"/>
+          <PublishItem publishSize="281879" publishTime="1589904585"/>
+          <PublishItem publishSize="281827" publishTime="1589904541"/>
+          <PublishItem publishSize="281827" publishTime="1589904321"/>
+          <PublishItem publishSize="280877" publishTime="1589904305"/>
+          <PublishItem publishSize="282712" publishTime="1589896530"/>
+          <PublishItem publishSize="282601" publishTime="1589896470"/>
+          <PublishItem publishSize="282528" publishTime="1589896349"/>
+          <PublishItem publishSize="282154" publishTime="1589896202"/>
+          <PublishItem publishSize="281917" publishTime="1589896081"/>
+          <PublishItem publishSize="281758" publishTime="1589894644"/>
+          <PublishItem publishSize="281758" publishTime="1589894538"/>
+          <PublishItem publishSize="280847" publishTime="1589894509"/>
+          <PublishItem publishSize="281738" publishTime="1589894421"/>
+          <PublishItem publishSize="281497" publishTime="1589894351"/>
+     </publishHistory>
+</DOMDocument>
