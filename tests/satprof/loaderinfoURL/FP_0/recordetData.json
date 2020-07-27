@@ -1,0 +1,1 @@
+{"player":"flashplayer","duration":6465,"date":"27/07/2020, 12:23:14","url":"index","swf":"satprof/loaderinfoURL","settings":{"onlyTraces":true,"snapShotFrames":0,"stopRecAfterFrame":10},"frames":[{"messages":["In frame 1.","this.loaderInfo.url = http://localhost:1111/src/tests/satprof/loaderinfoURL.swf"],"frameIdx":0}],"events":{},"swfInfos":null,"test":"FP_0"}

@@ -1,0 +1,1 @@
+{"player":"awayflplayer","duration":1455,"date":"27/07/2020, 12:21:47","url":"index","swf":"satprof/getTimer","settings":{"onlyTraces":true,"snapShotFrames":0,"stopRecAfterFrame":10},"frames":[{"messages":["In frame 1.","this.getTimer() = 315"],"frameIdx":0}],"events":{},"result":"failed","message":"messages 1 for frame 0 does not match"}
