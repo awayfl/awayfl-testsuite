@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<node label="rootNode">
+    <leaf label="leaf2" open="false">
+        <leaf label="leaf2_2_1"/>
+        <leaf label="leaf2_2_2"/>
+        <leaf label="leaf2_2_3"/>
+        <leaf label="leaf2_2_4"/>
+        <leaf label="leaf2_2_5"/>
+        <leaf label="leaf2_2_6"/>
+        <leaf label="leaf2_2_7"/>
+        <leaf label="leaf2_2_8"/>
+        <leaf label="leaf2_2_9"/>
+        <leaf label="leaf2_2_10"/>
+        <leaf label="leaf2_2_11"/>
+        <leaf label="leaf2_2_12"/>
+        <leaf label="leaf2_2_13"/>
+        <leaf label="leaf2_2_14"/>
+    </leaf>
+    <leaf label="leaf3" open="false">
+        <leaf label="leaf3_2_1"/>
+        <leaf label="leaf3_2_2"/>
+        <leaf label="leaf3_2_3"/>
+        <leaf label="leaf3_2_4"/>
+        <leaf label="leaf3_2_5"/>
+        <leaf label="leaf3_2_6"/>
+        <leaf label="leaf3_2_7"/>
+        <leaf label="leaf3_2_8"/>
+        <leaf label="leaf3_2_9"/>
+        <leaf label="leaf3_2_10"/>
+        <leaf label="leaf3_2_11"/>
+        <leaf label="leaf3_2_12"/>
+        <leaf label="leaf3_2_13"/>
+        <leaf label="leaf3_2_14"/>
+    </leaf>
+    <leaf label="leaf4">
+        <leaf label="leaf4_1">
+        </leaf>
+    </leaf>
+    <leaf label="leaf5">
+        <leaf label="leaf5_1">
+        </leaf>
+    </leaf>
+    <leaf label="leaf6">
+        <leaf label="leaf6_1">
+        </leaf>
+    </leaf>
+</node>
