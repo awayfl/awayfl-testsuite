@@ -74,7 +74,7 @@
 		"express": "^4.17.1",
 		"formidable": "^1.2.2",
 		"http": "^0.0.1-security",
-		"immer": "^7.0.1",
+		"immer": "^8.0.1",
 		"isomorphic-ws": "^4.0.1",
 		"jest": "^26.0.1",
 		"jest-puppeteer": "^4.4.0",
