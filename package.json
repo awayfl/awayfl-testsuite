@@ -71,7 +71,7 @@
 		"blueimp-canvas-to-blob": "^3.27.0",
 		"child_process": "^1.0.2",
 		"cors": "^2.8.5",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"formidable": "^1.2.2",
 		"http": "^0.0.1-security",
 		"immer": "^7.0.1",
