@@ -8,7 +8,11 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "experimentalDecorators":true,
-	"jsx": "react",
-	"allowSyntheticDefaultImports":true
+	  "jsx": "react",
+	  "allowSyntheticDefaultImports":true,
+    "baseUrl": "./",
+    "paths": {
+      "react": [ "./node_modules/@types/react" ]
+    }
   }
 }
