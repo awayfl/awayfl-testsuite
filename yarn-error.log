@@ -1,30 +1,30 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @types/isomorphic-ws
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js add 1.3.1
 
 PATH: 
-  C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\80pro\AppData\Local\Microsoft\WindowsApps;C:\Users\80pro\AppData\Roaming\npm;C:\Users\80pro\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\80pro\AppData\Local\Yarn\bin
+  C:\Program Files\PowerShell\7;C:\Programas\powershell\7;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;c:\devkitPro\msys2\usr\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\GitHub CLI\;C:\Program Files\Wiimm\SZS;C:\Program Files (x86)\WinMerge;C:\HaxeToolkit\haxe;C:\HaxeToolkit\neko;C:\Program Files\AntiMicroX\bin;C:\Program Files (x86)\ZeroTier\One\;C:\Users\paulo\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Go\bin;C:\Program Files\010 Editor;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\PowerShell\7\;C:\Users\paulo\.pyenv\pyenv-win\bin;C:\Users\paulo\.pyenv\pyenv-win\shims;C:\Users\paulo\AppData\Roaming\Python\Python312\Scripts;C:\Users\paulo\scoop\shims;C:\Ruby32-x64\bin;C:\Users\paulo\.cargo\bin;C:\Users\paulo\AppData\Local\Microsoft\WindowsApps;C:\Users\paulo\.dotnet\tools;C:\Users\paulo\ffmpeg\bin;C:\Program Files\Wiimm\SZS;C:\AIR\Tools;C:\Users\paulo\AppData\Local\Programs\Fiddler;C:\Program Files\mitmproxy\bin;C:\Users\paulo\AppData\Local\GitHubDesktop\bin;C:\ApacheANT\bin;C:\Users\paulo\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\android\platform-tools;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.2\bin;C:\Maven\bin;C:\AIR_SDK\bin;C:\quickbms;C:\BinaryRen\bin;C:\Users\paulo\.dotnet\tools;C:\Users\paulo\go\bin;C:\Users\paulo\AppData\Local\Microsoft\WinGet\Links;;C:\Users\paulo\AppData\Local\Programs\Microsoft VS Code\bin
 
 Yarn version: 
-  1.22.0
+  1.22.19
 
 Node version: 
-  13.9.0
+  20.9.0
 
 Platform: 
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@types%2fisomorphic-ws: Not found
-      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66084:18)
-      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140727:22)
-      at Request.emit (events.js:321:20)
-      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141699:10)
-      at Request.emit (events.js:321:20)
-      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141621:12)
-      at Object.onceWrapper (events.js:427:28)
-      at IncomingMessage.emit (events.js:333:22)
-      at endReadableNT (_stream_readable.js:1201:12)
-      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+  Error: https://registry.yarnpkg.com/1.3.1: Not found
+      at params.callback [as _callback] (C:\Users\paulo\AppData\Roaming\nvm\v20.9.0\node_modules\yarn\lib\cli.js:66145:18)
+      at self.callback (C:\Users\paulo\AppData\Roaming\nvm\v20.9.0\node_modules\yarn\lib\cli.js:140890:22)
+      at Request.emit (node:events:514:28)
+      at Request.<anonymous> (C:\Users\paulo\AppData\Roaming\nvm\v20.9.0\node_modules\yarn\lib\cli.js:141862:10)
+      at Request.emit (node:events:514:28)
+      at IncomingMessage.<anonymous> (C:\Users\paulo\AppData\Roaming\nvm\v20.9.0\node_modules\yarn\lib\cli.js:141784:12)
+      at Object.onceWrapper (node:events:628:28)
+      at IncomingMessage.emit (node:events:526:35)
+      at endReadableNT (node:internal/streams/readable:1408:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
 
 npm manifest: 
   {
@@ -95,7 +95,10 @@ npm manifest:
   		"@awayjs/stage": "^0.11.0",
   		"@awayjs/view": "^0.6.0",
   		"@rauschma/stringio": "^1.4.0",
+  		"@types/hoist-non-react-statics": "3.3.1",
   		"@types/react": "^16.9.36",
+  		"@types/ws": "^7.2.6",
+  		"blueimp-canvas-to-blob": "^3.27.0",
   		"child_process": "^1.0.2",
   		"cors": "^2.8.5",
   		"express": "^4.17.1",
@@ -105,7 +108,7 @@ npm manifest:
   		"isomorphic-ws": "^4.0.1",
   		"jest": "^26.0.1",
   		"jest-puppeteer": "^4.4.0",
-  		"pixelmatch": "^5.2.0",
+  		"pixelmatch": "^5.2.1",
   		"pngjs": "^5.0.0",
   		"puppeteer": "^4.0.0",
   		"react": "^16.13.1",
@@ -118,7 +121,8 @@ npm manifest:
   		"redux-thunks": "^1.0.0",
   		"source-map-loader": "^1.0.0",
   		"tslib": "^1.9.0",
-  		"url": "^0.11.0"
+  		"url": "^0.11.0",
+  		"ws": "^7.3.0"
   	},
   	"devDependencies": {
   		"babel-core": "^6.26.3",
@@ -872,6 +876,14 @@ Lockfile:
     dependencies:
       "@types/node" "*"
   
+  "@types/hoist-non-react-statics@3.3.1":
+    version "3.3.1"
+    resolved "https://registry.yarnpkg.com/@types/hoist-non-react-statics/-/hoist-non-react-statics-3.3.1.tgz#1124aafe5118cb591977aeb1ceaaed1070eb039f"
+    integrity sha512-iMIqiko6ooLrTh1joXodJK5X9xeEALT1kM5G3ZLhD3hszxBdIEd5C75U834D9mLcINgD4OyZf5uQXjkuYydWvA==
+    dependencies:
+      "@types/react" "*"
+      hoist-non-react-statics "^3.3.0"
+  
   "@types/html-minifier-terser@^5.0.0":
     version "5.1.0"
     resolved "https://registry.yarnpkg.com/@types/html-minifier-terser/-/html-minifier-terser-5.1.0.tgz#551a4589b6ee2cc9c1dff08056128aec29b94880"
@@ -942,6 +954,15 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/@types/random-seed/-/random-seed-0.3.3.tgz#7741f7b0a4513198a9396ce4ad25832f799a6727"
     integrity sha512-kHsCbIRHNXJo6EN5W8EA5b4i1hdT6jaZke5crBPLUcLqaLdZ0QBq8QVMbafHzhjFF83Cl9qlee2dChD18d/kPg==
   
+  "@types/react@*":
+    version "18.2.48"
+    resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.48.tgz#11df5664642d0bd879c1f58bc1d37205b064e8f1"
+    integrity sha512-qboRCl6Ie70DQQG9hhNREz81jqC1cs9EVNcjQ1AU+jH6NFfSAhVVbrrY/+nSF+Bsk4AOwm9Qa61InvMCyV+H3w==
+    dependencies:
+      "@types/prop-types" "*"
+      "@types/scheduler" "*"
+      csstype "^3.0.2"
+  
   "@types/react@^16.9.36":
     version "16.9.41"
     resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.41.tgz#925137ee4d2ff406a0ecf29e8e9237390844002e"
@@ -956,6 +977,11 @@ Lockfile:
     integrity sha512-auApPaJf3NPfe18hSoJkp8EbZzer2ISk7o8mCC3M9he/a04+gbMF97NkpD2S8riMGvm4BMRI59/SZQSaLTKpsQ==
     dependencies:
       "@types/node" "*"
+  
+  "@types/scheduler@*":
+    version "0.16.8"
+    resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.8.tgz#ce5ace04cfeabe7ef87c0091e50752e36707deff"
+    integrity sha512-WZLiwShhwLRmeV6zH+GkbOFT6Z6VklCItrDioxUnv+u4Ll+8vKeFySoFyK/0ctcRpOmwAicELfmys1sDc/Rw+A==
   
   "@types/source-list-map@*":
     version "0.1.2"
@@ -999,6 +1025,13 @@ Lockfile:
       "@types/uglify-js" "*"
       "@types/webpack-sources" "*"
       source-map "^0.6.0"
+  
+  "@types/ws@^7.2.6":
+    version "7.2.6"
+    resolved "https://registry.yarnpkg.com/@types/ws/-/ws-7.2.6.tgz#516cbfb818310f87b43940460e065eb912a4178d"
+    integrity sha512-Q07IrQUSNpr+cXU4E4LtkSIBPie5GLZyyMC1QtQYRLWz701+XcoVygGUZgvLqElq1nU4ICldMYPnexlBsg3dqQ==
+    dependencies:
+      "@types/node" "*"
   
   "@types/yargs-parser@*":
     version "15.0.0"
@@ -2268,6 +2301,11 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
     integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
   
+  blueimp-canvas-to-blob@^3.27.0:
+    version "3.27.0"
+    resolved "https://registry.yarnpkg.com/blueimp-canvas-to-blob/-/blueimp-canvas-to-blob-3.27.0.tgz#a2bd5c43587b95dedf0f6998603452d1bfcc9b9e"
+    integrity sha512-AcIj+hCw6WquxzJuzC6KzgYmqxLFeTWe88KuY2BEIsW1zbEOfoinDAGlhyvFNGt+U3JElkVSK7anA1FaSdmmfA==
+  
   bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.4.0:
     version "4.11.9"
     resolved "https://registry.yarnpkg.com/bn.js/-/bn.js-4.11.9.tgz#26d556829458f9d1e81fc48952493d0ba3507828"
@@ -3048,6 +3086,11 @@ Lockfile:
     version "2.6.10"
     resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.10.tgz#e63af50e66d7c266edb6b32909cfd0aabe03928b"
     integrity sha512-D34BqZU4cIlMCY93rZHbrq9pjTAQJ3U8S8rfBqjwHxkGPThWFjzZDQpgMJY0QViLxth6ZKYiwFBo14RdN44U/w==
+  
+  csstype@^3.0.2:
+    version "3.1.3"
+    resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.3.tgz#d80ff294d114fb0e6ac500fbf85b60137d7eff81"
+    integrity sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==
   
   cwd@^0.10.0:
     version "0.10.0"
@@ -6447,10 +6490,10 @@ Lockfile:
     dependencies:
       node-modules-regexp "^1.0.0"
   
-  pixelmatch@^5.2.0:
-    version "5.2.0"
-    resolved "https://registry.yarnpkg.com/pixelmatch/-/pixelmatch-5.2.0.tgz#6433386c6a830b0d9ee3962f9ad59695500677cd"
-    integrity sha512-TdleROuanI+Uo/4PcOAH7b7qgO4kjzJO8K4y/TBAo1wx/5BE8cn1B0I6Jfk3mKcJsGpWvX7zjM8OjU5o9i+aog==
+  pixelmatch@^5.2.1:
+    version "5.2.1"
+    resolved "https://registry.yarnpkg.com/pixelmatch/-/pixelmatch-5.2.1.tgz#9e4e4f4aa59648208a31310306a5bed5522b0d65"
+    integrity sha512-WjcAdYSnKrrdDdqTcVEY7aB7UhhwjYQKYhHiBXdJef0MOaQeYpUdQ+iVyBLa5YBKS8MPVPPMX7rpOByISLpeEQ==
     dependencies:
       pngjs "^4.0.1"
   
@@ -8635,7 +8678,7 @@ Lockfile:
     dependencies:
       async-limiter "~1.0.0"
   
-  ws@^7.2.3:
+  ws@^7.2.3, ws@^7.3.0:
     version "7.3.0"
     resolved "https://registry.yarnpkg.com/ws/-/ws-7.3.0.tgz#4b2f7f219b3d3737bc1a2fbf145d825b94d38ffd"
     integrity sha512-iFtXzngZVXPGgpTlP1rBqsUK82p9tKqsWRPg5L56egiljujJT3vGAYnHANvFxBieXrTFavhzhxW52jnaWV+w2w==
