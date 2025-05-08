@@ -1,0 +1,1 @@
+﻿1=Picture1.jpg&2=Picture2.jpg&3=Picture3.jpg

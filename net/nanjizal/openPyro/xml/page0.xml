@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id='page0'>
+    <UIContainer id='logo' layout='VLayout_3' x='10' y='0'>
+        <Image id='logoImage' x='-30' source='img/justinfrontlogo.png'/>
+        <Button id='contact_btn' percentUnusedWidth='30' explicitHeight='30' label='Contact'>
+            <AuroraButtonSkin upColors='[0xFEE4E5,0x4D3335]'></AuroraButtonSkin>
+        </Button>
+        <Button id='about_btn' percentUnusedWidth='30' explicitHeight='30' label='About'>
+            <AuroraButtonSkin upColors='[0xFEE4E5,0x4D3335]'></AuroraButtonSkin>
+        </Button>
+        <TextInput explicitHeight='30' percentUnusedWidth='30' id='textInput'/>
+        <Label id='label0' text='High' textColor='0xFF0000'/>
+        <Slider id='slider0' parameters='horizontal' percentWidth='90' explicitHeight='20' minimum='0' maximum='4' skin='AuroraSliderSkin()' thumbButtonWidth='12'/>
+        <SimpleList width='100' height='200' itemHeight='25' dataProvider='[UIControl,Button,ComboBox,Image,Label,List,ProgressBar,ScrollBar,Slider,Spacer,Text,TextInput,Tree,SimpleTree]'>
+            <AuroraContainerSkin></AuroraContainerSkin>
+        </SimpleList>
+        <SimpleTree id='tree1' src='xml/page0.xml' itemHeight='25' height='200' explicitWidth='500'>
+            <AuroraContainerSkin></AuroraContainerSkin>
+        </SimpleTree>
+    </UIContainer> 
+    <UIContainer id='ui1' layout='HLayout_10' x='200' y='200' explicitHeight='100' explicitWidth='200'>
+        <Text id='text1' percentUnusedWidth='50' text='need this method since when assigned pageController has not been created need this method since when assigned pageController has not been created need this method since when assigned pageController has not been created need this method since when assigned pageController has not been created'/>
+        <Text id='text2' percentUnusedWidth='50' text='need this method since when assigned pageController has not been created need this method since when assigned pageController has not been created need this method since when assigned pageController has not been created need this method since when assigned pageController has not been created'/>
+        <ScrollBar id='scroll1' parameters='vertical' percentUnusedHeight='100' explicitWidth='15' maximum='1' decrementButtonSkin='AuroraButtonSkin()' incrementButtonSkin='AuroraButtonSkin()'>
+                 <AuroraScrollBarSkin direction='vertical'/>
+        </ScrollBar>
+    </UIContainer>
+    <UIContainer id='ui2' layout='VLayout_3' x='400' y='100' explicitHeight='100' explicitWidth='100'>
+        <Button id='but1' percentUnusedWidth='50' explicitHeight='30' label='Contact'>
+            <AuroraButtonSkin upColors='[0xFEE4E5,0x4D3335]'/>
+        </Button>
+        <Button id='but2' percentUnusedWidth='50' explicitHeight='30' label='but2'>
+            <AuroraButtonSkin upColors='[0xFEE4E5,0x4D3335]'/>
+        </Button>
+    </UIContainer>
+    <UIContainer id='ui3' layout='HLayout_10' y='400' x='50' explicitHeight='100' explicitWidth='701'>
+        <ComboBox width='100' height='25' dataProvider='[one,two,three,four,five,six]'>
+            <AuroraComboBoxSkin/>
+        </ComboBox>
+        <ComboBox width='100' height='25' dataProvider='[UIContainer,DividedBox,HDividedBox,SlidePane,VDividedBox,ViewStack]'>
+            <AuroraComboBoxSkin/>
+        </ComboBox>
+        <ComboBox width='150' height='25' dataProvider='[AbsoluteLayout,ColumnGridLayout,HLayout,RowGridLayout,TreeLayout,VLayout]'>
+            <AuroraComboBoxSkin></AuroraComboBoxSkin>
+        </ComboBox>
+        <ComboBox width='100' height='25' dataProvider='[UIControl,Button,ComboBox,Image,Label,List,SimpleList,ProgressBar,ScrollBar,Slider,Spacer,Text,TextInput,Tree,SimpleTree]'>
+            <AuroraComboBoxSkin/>
+        </ComboBox>
+        <ComboBox width='170' height='25' dataProvider='[AuroraButtonSkin,AuroraComboBoxSkin,AuroraContainerSkin,AuroraHDividedBoxSkin,AuroraPainterButtonSkin,AuroraScrollBarSkin,AuroraSliderSkin]'>
+            <AuroraComboBoxSkin/>
+        </ComboBox>
+    </UIContainer>       
+    <HDividedBox id='ui4' x='600' y='100' explicitHeight='400' explicitWidth='200'>
+        <Image id='img2' source='face.jpg' percentUnusedHeight='50' percentUnusedWidth='50'/>
+        <Button id='butb' percentUnusedWidth='25' explicitHeight='30' label='but2'>
+            <AuroraButtonSkin upColors='[0xdfdfdf,0xff0000]'/>
+        </Button>
+        <Button id='butc' percentUnusedWidth='25' explicitHeight='30' label='but1'>
+            <AuroraButtonSkin upColors='[0xdfdfdf,0xff0000]'/>
+        </Button>
+        <Button id='butd' percentUnusedWidth='25' explicitHeight='30' label='but2'>
+            <AuroraButtonSkin upColors='[0xdfdfdf,0xff0000]'/>
+        </Button>
+    </HDividedBox>
+    <UIContainer id='ui1' verticalScrollBar='getById_scroll1'/>
+</page>  
